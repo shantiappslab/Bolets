@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="facildeconfondre">#BD050E</color>
+    <color name="verd">#096101</color>
+    <color name="vermell">#BD050E</color>
+    <color name="bg_verd">#B5EFAF</color>
+    <color name="bg_vermell">#E19B9E</color>
+    <color name="taronja_oficial">#E97B00</color>
+    <color name="taronja_oficial2">#FF8C08</color>
+    <color name="blau">#4b4fa9</color>
+    <color name="white">#00000000</color>
+    <color name="gris">#5a000000</color>
+
+
+
+</resources>

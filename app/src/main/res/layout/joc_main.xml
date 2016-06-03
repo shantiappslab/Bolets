@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rlayJoc"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/txtTitol_joc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textColor="@color/window_background"
+        android:background="@color/taronja_oficial"
+        android:text="Quin bolet és?"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="23dp"
+        android:textAlignment="center"
+        />
+
+
+    <ImageView
+        android:id="@+id/imatge_joc"
+        android:layout_width="@dimen/list_item_gallery_size"
+        android:layout_height="@dimen/list_item_gallery_size"
+        android:layout_below="@+id/txtTitol_joc"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/rovello1" />
+
+
+    <RadioGroup
+        android:id="@+id/rbGrup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/imatge_joc"
+        android:background="@color/taronja_oficial"
+        android:orientation="vertical"
+        android:focusableInTouchMode="false"
+        android:showDividers="beginning|end">
+
+        <RadioButton
+            android:id="@+id/opcio1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/buttonEnvia_joc"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="10dp"
+            android:checked="false"
+            android:layout_marginBottom="20dp"
+            android:textColor="@color/cardview_dark_background"
+            android:textSize="20dp"
+            android:text="Opcio 1" />
+
+        <RadioButton
+            android:id="@+id/opcio2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/opcio1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="20dp"
+            android:checked="false"
+            android:textColor="@color/cardview_dark_background"
+            android:text="Opcio 2"
+            android:textSize="20dp"/>
+
+        <RadioButton
+            android:id="@+id/opcio3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/opcio2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:checked="false"
+            android:text="Opcio 3"
+            android:textColor="@color/cardview_dark_background"
+            android:textSize="20dp"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/buttonEnvia_joc"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="10dp"
+        android:background="@color/verd"
+        android:text="Envia"
+        android:textColor="@color/window_background"
+        />
+<RelativeLayout
+    android:id="@+id/linTextos"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/imatge_joc"
+    android:background="@color/cardview_dark_background">
+
+    <TextView
+        android:id="@+id/txtTemps_joc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/txtPunts_joc"
+        android:textColor="@color/window_background"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="10dp"
+        android:text="temps"
+        android:gravity="top"
+        android:textSize="20dp"
+        android:drawableLeft="@drawable/ic_alarm"/>
+
+    <TextView
+        android:id="@+id/txtPunts_joc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/taronja_oficial2"
+        android:text="punts"
+        android:gravity="top"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/cont_joc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/window_background"
+        android:text="1/20"
+        android:gravity="top"
+        android:textSize="20dp" />
+</RelativeLayout>
+
+
+    <Button
+        android:id="@+id/buttonNext_joc"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/linTextos"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/gris"
+        android:text="Següent"
+        android:textColor="@color/window_background"
+        android:enabled="false"
+        />
+
+    <Button
+        android:id="@+id/buttonAbandona_joc"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:background="@color/facildeconfondre"
+        android:text="Abandona"
+        android:textColor="@color/window_background" />
+</RelativeLayout>
+

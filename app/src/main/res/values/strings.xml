@@ -1,0 +1,1906 @@
+<resources>
+    <string name="app_name">Boletaires</string>
+    <string name="galeria">Galeria</string>
+    <string name="imatge">Imatge</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="preparacio">Preparació</string>
+    <string name="temps">Temps</string>
+    <string name="descripcio">Descripció</string>
+    <string name="titol_comestibles_semblants">Bolets comestibles semblants</string>
+    <string name="titol_toxics_semblants">Bolets tóxics semblants</string>
+
+    <!-- FIRST RUN DIALOG-->
+    <string name="dialogCos">
+        <b>"Guia d'espècies i receptes dels bolets de Catalunya"</b>\n\n
+    "L' Aplicació Boletaires* presenta les principals espècies de bolets comestibles. També mostra les espècies tòxiques que per la seva semblança amb les varietats més apreciades representen una amenaça pel buscador de bolets."\n\n
+
+    "Boletaires recull un complet llistat de més de 40 receptes que inclou aperitius, primers plats, segons plats i postres que faran les delícies de qui les provi."\n\n
+
+    "Inclou també un joc d'identificació de bolets per entrenar l'olfacte caçador."\n\n
+
+    "Recordeu que els noms populars dels bolets canvien segons les comarques i que davant qualsevol dubte en la identificació d'un bolet el millor és no collir-lo."\n\n
+
+    "Gaudiu de la collida i sobretot:"\n
+    "CUIDEU EL BOSC "\n\n
+
+    "*Boletaires és un projecte sense ànim de lucre."
+    </string>
+
+    <!-- JOC-->
+
+    <string name="rovelloNom">"Rovelló"</string>
+    <string name="llenegaNom">"Llenega"</string>
+    <string name="camadeperdiuNom">"Cama de perdiu"</string>
+    <string name="oudereigNom">"Ou de reig"</string>
+    <string name="lletragaNom">"Lletraga"</string>
+    <string name="fredolicmetzinosNom">"Fredolic Metzinós"</string>
+    <string name="camagrocNom">"Camagroc"</string>
+    <string name="reigbordNom">"Reig Bord"</string>
+    <string name="tofonaNom">"Tófona"</string>
+    <string name="camasecNom">"Cama-sec"</string>
+    <string name="cepNom">"Cep"</string>
+    <string name="farinerabordaNom">"Farinera borda"</string>
+    <string name="fredolicNom">"Fredolic"</string>
+    <string name="girgolaoliveraNom">"Gírgola d'Olivera"</string>
+    <string name="murgolaNom">"Múrgola"</string>
+    <string name="rossinyolNom">"Rossinyol"</string>
+    <string name="trompetaNom">"Trompeta de la mort"</string>
+    <string name="pixacaNom">"Pixacà"</string>
+    <string name="matagentNom">"Matagent"</string>
+    <string name="llenguadebouNom">"Llengua de bou"</string>
+
+
+
+        <!-- ADDS-->   <!--PUBLI DE PROVA--> <!-- ca-app-pub-3940256099942544/6300978111 (id2)-->
+    <!--<string name="banner_ad_unit_id1">ca-app-pub-3940256099942544/6300978111</string>--><!-- ca-app-pub-7602444858698425/2236744796-->
+    <!--<string name="banner_ad_unit_id2">ca-app-pub-7602444858698425/9341209193</string>--><!-- ca-app-pub-7602444858698425/9341209193-->
+    <!--<string name="banner_ad_unit_id3">ca-app-pub-7602444858698425/3294675598</string>--><!-- ca-app-pub-7602444858698425/3294675598-->
+    <!--<string name="banner_ad_unit_id4">ca-app-pub-3940256099942544/6300978111</string>--><!-- ca-app-pub-7602444858698425/3220623592-->
+
+
+    <!-- TEXTOS BOLETS-->
+
+    <string name="ceps_description">
+        \n\n
+        "El cep o buixó (Boletus edulis), és a la majoria de països europeus el bolet per excel·lència. És molt semblant al Boletus aestivalis i al siureny (Boletus aereus), amb el que sovint se'l confon."
+        \n\n
+        "El bolet pot trobar-se molt frecuentment en bosco de pis. Es un bolet que pot arribar a dimensions notables, per un general el barret pot medir entre 7 a 20 cm. de diámetre i el peu tenir la misma alçada."
+        \n\n
+        "Capell primer hemisfèric i després convex-aplanat de color marró-castany de tonalitat força variable. La superfície és viscosa i presenta rugositats. El peu, color gris-avellana, és quasi ovoide i acilindrat en els exemplars adults. La carn és blanquinosa."
+        \n\n
+        "Es fan, de manera molt abundant quan les condicions son bones, en pinedes, fagedes, rouredes i alzinars. Finals d'estiu i tardor."
+        \n\n
+        "Es pot menjar cru en amanides, assecat, cuit i en oli."
+        \n\n
+        "Del mateix gènere del Boletus edulis és el mataparent (Boletus satanas), un dels bolets letals. "
+    </string>
+
+    <string name="ceps_semblants">Matagent (Boletus Satanas)</string>
+
+    <string name="fredolics_description">
+        \n\n
+        "El fredolic (Tricholoma terreum) és un bolet de l'ordre dels agaricals també anomenat freduluc, negret, gírgola d'estepa o negrito."
+        \n\n
+        "Té un barret sovint irregular, amb el centre que sobresurt i la cutícula seca amb diferents tonalitats de color gris, com de vellut. Sol tenir fibres i esquames negroses, en especial a la part central. Les làmines són d'un blanc brut o grises i estan espaiades. El peu és cilíndric i fibrós. El peu és prim i fibrós i es trenca en un no res; la carn, molt minsa i fràgil, a penes fa olor."
+        \n\n
+        "És un bolet tardà que surt a les pinedes formant grups nombrosos amb els primers freds (d'on li vé el nom popular) de manera que allarga la temporada boletaire. Se'l pot arribar a trobar congelat."
+        \n\n
+        "El fredolic és de carn blanca i bon comestible. Es fa servir per guisats i per sopes. Es passa amb facilitat."
+        \n\n
+        "Hi ha espècies pròximes, amb esquames molt negres, fins i tot pel peu, o algunes en les quals tendeixen a barrejar-s'hi coloracions grogues, totes elles comestibles de semblant qualitat. Tanmateix, cal evitar confondre'l amb el fredolic metzinós (Tricholoma pardinum), més robust i més gros, amb el barret esquamós; és propi de les fagedes i avetoses, pel damunt dels 1.500 m d'altitud El fredolic sol tenir el peu buit, mentre que el del fredolic metzinós és sempre ple."
+    </string>
+
+    <string name="fredolics_semblants">Fredolic Metzinòs (Tricholoma Pardinum)</string>
+
+    <string name="llenegues_description">
+        \n\n
+        "La llenega negra o mocosa negra (Hygrophorus latitabundus) és potser el bolet comestible més valorat i buscat a Catalunya i especialment al Bages i Solsones. De l'ordre dels agaricals."
+        \n\n
+        "El capell, de 6-10 cm de diàmetre i amb el marge força enrollat, és d'un bru olivaci i llefiscós produït per un mucílag transparent, molt abundant, que recobreix tant el barret com el peu. Amb làmines blanques, espaiades i gruixudes també viscoses."
+        \n\n
+        "Viu en qualsevol bosc de pins, sobretot el pi roig, amb sòls calcaris de la terra baixa i la muntanya mitjana. Acostuma a trobar-se formant grups més o menys nombrosos, molt sovint en forma de ferradura, que neixen en el mateix indret cada any. Aquestes superfícies de bosc es coneixen amb el nom de llenegueres i són molt valorades pels boletaires."
+        \n\n
+        "És un excel·lent comestible. Es menja guisat en plats de carn o d'aviram. Com la majoria de bolets, convé no renta'l gaire i en aquest cas per no treure el mucílag que li dóna consistència mentre es cou."
+        \n\n
+        "La llenega blanca (Hygrophorus latitabundus) Poc conegut fora del seu ambit natural de recol·lecció, és apreciat pels que conèixen la seva germana negra. Barret de 3 a 12 cm de diàmetre. De jove, convex, i després, aplanat. Viscós i de color crema a groc palla, peu cilíndric, blanquinós i viscós, carn blanca o lleugerament groga. Forta, de jove, més tova al cap del temps, làmines amples, gruixudes i separades. De color blanc."
+    </string>
+
+    <string name="llengues_semblants"></string>
+
+    <string name="moixernons_description">
+        \n\n
+        "El moixernó, moixeró o bolet de Sant Jordi (Calocybe gambosa) presenta un barret molsut, de 3 a 10 cm, convex, aplanat en els exemplars vells, d'un blanc brut, o fins cremós, amb làmines primes, lliures, blanques o lleugerament grogues."
+        \n\n
+        "El peu, gruixut, pot fer de 3 a 7 cm d'altura i és compacte, corbat, ple, de color blanc."
+        \n\n
+        "La seva carn no és fibrosa, sinó que es trenca i s'engruna entre els dits, té un sabor agradable i una olor de farina fresca."
+        \n\n
+        "Viu en els prats, entre l'herba, i en els matolls no gaire espessos. Sovint forma erols. Surt a la primavera pels volts de Sant Jordi, d'aquí prové el seu nom. És un bolet comestible excel·lent."
+    </string>
+
+    <string name="moixernons_semblants"></string>
+
+    <string name="murgoles_description">
+        \n\n
+        "La múrgola, rabassola o morilla, és un bolet de la classe dels ascomicets i del gènere Morchella. Produeixen ascocarps molt porosos, que són molt apreciats a la cuina. Tot i que hi ha diferents espècies, el nom genèric se sol assignar a la Morchella rotunda la més comú a casa nostra."
+        \n\n
+        "Formats per una cama blanquinosa que sosté un barret de forma esfèrica, arrodonida o ovoide, de 6 a 10 cm d'amplada, de color palla enrossida o de la mel, amb alvèols ocupats per l'himeni constituïts gairebé com un vesper. El peu, que també és buit, és blanquinós, engruixit cap a la part de sota i, poc o molt, solcat. La carn és fràgil i molt minsa i és pràcticament inodora."
+        \n\n
+        "Aparèix en llocs molt diversos a la primavera, però sobretot en llocs oberts, boscos aclarits o cremats i terres remogudes, i no sol aparèixer en els mateixos indrets d'un any a l'altra. Preferentment sota verns, pollancres, oms i freixes, però també en prats i pinedes sorrencoses. Es troba des del litoral fins als Pirineus."
+        \n\n
+        "Tot i que es considera un excel·lent comestible, és prudent coure'l, llençar l'aigua i afegir-lo ja cuit als guisats. Així s'eliminen alguns principis tòxics que duu, per bé que en poca quantitat. També es destrueixen si es deixa assecar enfilant-los i penjant-los, amb l'avantatge que d'aquesta manera el bolet millora la seva exquisida aroma."
+        \n\n
+        "No hi ha perill de confusió amb altres espècies de múrgoles, ja que totes són comestibles."
+    </string>
+
+    <string name="murgoles_semblants"></string>
+
+    <string name="rossinyols_description">
+        \n\n
+        "El rossinyol (Cantharellus cibarius) és un tipus de bolet excel·lent comestible i molt buscat."
+        \n\n
+        "Tot ell és massís i de color groguenc, groc-daurat o ataronjat, però el peu és més atenuat a la base. El barret, de 4 a 10 cm., primer és convex, després aplanat-deprimit i finalment en forma d'embut; el seu marge és ondulat. Fa una olor agradable, fruitada, i el seu gust és dolç."
+        \n\n
+        "Es fa als boscos de latifolis (alzinars, suredes, fagedes, castanyedes i rouredes) i coníferes, des de la primavera fins a la tardor, depenent de la pluja."
+        \n\n
+        "Els rossinyols tenen la particularitat de no corcar-se mai i es poden collir molts dies després del seu naixement. En fer-se vell, negreja a les puntes del capell i el groc es torna amarronat."
+        \n\n
+        "Sol utilitzar-se en guisats i és apte per assecar o salar. També es pot menjar cru."
+        \n\n
+        "Hi ha dos bolets que s'assemblen al rossinyol amb una coloració similar. Són, per una banda, el fals rossinyol (Hygrophoropsis aurantiaca), que és comestible, i, per l'altra, la gírgola d'olivera (Omphalotus olearius), que és tòxica."
+    </string>
+
+    <string name="rossinyols_semblants">"Gírgola d'Olivera (Omphalotus Olearius)"</string>
+
+    <string name="rovellons_description">
+        \n\n
+        <b>Rovelló pinetell (Lactarius deliciosus):</b> "Juntament amb el seu germà Rovelló esclata-sang són, sens dubte, els bolets de bosc comestibles més coneguts a Catalunya. No s'ha de confondre amb la lletraga, lleterola (Lactarius chrysorrheus), bolet no comestible, aparentment com el rovelló però més petit i amb un color més clar i que quan es trenca en surt llet blanca. El pinetell és fa a tota Europa. Vol la calor i és propi de boscos assoleiats. és més freqüent a terra baixa i a les obagues. La dependència que tenen els pins respecte les micorizes (hifes o filaments dels fongs que proporcionen aigua amb sals minerals a canvi d'aliment) és total perquè el seu sistema radicular amb una ramificació fina poc desenvolupada no els permet viure a la natura sense els seus fongs associats. Les rovelloneres són llocs on solen sortir els bolets de forma abundant per ser llocs on hi ha coníferes i un extens miceli ocupant el substrat i que cada temporada "floreix" amb els cobdiciats bolets. Quan el bolet ha estat envaït pel paràsit Hypomyces lateritius i quedat desproveït de làmines llavors s'anomena rovellona, rovellola o mare de rovelló."
+        \n\n
+        \n\n
+        <b>Rovelló esclata-sang (Lactarius sanguifluus):</b> "És un dels bolets més apreciats gastronòmicament. El Lactarius sanguifluus es caracteritza per desprendre, quan es talla, una mica de líquid de color vinós que podria semblar sang o òxid (rovell) que en poc temps es torna de color verdós. D'aquí el nom amb que se'l coneix. Els bolets més joves tenen el barret convex, però a mesura que creix, s'aplana i acaba en forma d'embut. Les làmines són fines, atapeïdes i decurrents pel peu. El làtex, si se n'han menjat forces, pot acolorir l'orina però no té cap efecte nociu. El peu, rabassut, sol estar tacat.Es fa en pinedes sobretot a la regió mediterrània. Vol la calor i és propi de boscos assoleiats i de terres baixes i es va fent més rar a mesura que augmenta l'altitud. La dependència que tenen els pins respecte les micorizes (hifes o filaments dels fongs que proporcionen aigua amb sals minerals a canvi d'aliment) és total perquè el seu sistema radicular amb una ramificació fina poc desenvolupada no els permet viure a la natura sense els seus fongs associats."
+    </string>
+
+    <string name="rovellons_semblants">"Lletraga (Lactarius Chrysorrheus)"</string>
+
+    <string name="tofones_description">
+        \n\n
+        "Les tòfones o trufes són un grup de fongs comestibles del gènere Tuber que creixen aprop d'alzines, roures, castanyers i nogueres."
+        \n\n
+        "El fruit o bolet es forma a sota terra. Algunes espècies fan un bolet molt olorós perquè certs animals les descobreixin i, en menjar-les, en dispersin les espores. Típicament és apreciada i reconeguda pels senglars, però també el reconeixen, per exemple, els gossos, alguns dels quals poden ser ensinistrats per a cercar tòfones. Té forma irregular més o menys arrodonida, semblant a una patata, de superfície rugosa i color fosc, l'interior presenta una aparença repleta de venes. La seva grandària va des de la d'una nou a la d'una patata. És capaç de generar substàncies herbicides."
+    </string>
+
+    <string name="tofones_semblants"></string>
+
+    <string name="oudereig_description">
+        \n\n
+        "L'ou de reig o simplement reig (Amanita caesarea) és un bolet excel·lent comestible de l'ordre dels agaricals i un dels més apreciats a Catalunya potser també perquè és poc comú. Ja era coneguda pels romans."
+        \n\n
+        "Pot arribar a fer uns 15 cm d'alçària, amb un barret de 8-20 cm, primer hemisfèric i finalment aplanat, amb el marge recte i lleugerament acanalat. La cutícula, que és separable, és llisa i lluent, un xic lubrificada en temps humit, de color taronja vermellós viu, que amb el temps s'engrogueix i es fa més pàlid."
+        \n\n
+        "El seu desenvolupament és el típic d'aquesta mena de bolets: en néixer recorda un ou (d'aqui el nom), més endavant n'emergeix el peu que porta el barret tancat al capdamunt; quan el barret s'obre i s'estén, el vel que fins aquell moment cobria les làmines s'esquinça per la vora i cau formant el típic anell de les amanites, que resta penjant a mig aire del peu."
+        \n\n
+        "Viu a les terres baixes en boscos de planifolis, associat bàsicament amb suros, alzines, roures i castanyers, en llocs nets i il·luminats orientats a llevant, amb clara preferència pels sòls silícics i saulosos. Fructifica des de la primavera fins a començaments de la tardor, ja que no és gens amant del fred."
+        \n\n
+        "A vegades pot presentar restes de vel. La carn és tendra, de color blanc, excepte sota la cutícula i a l'exterior del peu, on és d'un bell groc de rovell d'ou i amb la volva blanca a la part baixa del peu. La seva olor és suau i el seu gust, dolç."
+        \n\n
+        "Es pot menjar tant fregit, com cru, tallat a llesques fines i macerat amb oli d'oliva. "
+        \n\n
+        "En cas de menjar-se l'ou, s'ha de tenir la precaució d'obrir-lo i comprovar que sigui de color taronja, per tal d'evitar una lamentable confusió amb l'ou de la farinera borda (Amanita phalloides), que té l'interior de color verdós. La quasi totalitat de les intoxicacions mortals són degudes a aquest bolet molt tòxic i bastant freqüent als boscos."
+        \n\n
+        "Hi ha cert perill de confusió amb el tòxic reig bord (Amanita muscaria), que té el barret d'un vermell viu, cobert de nombroses granulacions de color blanc, les làmines blanques i el peu en forma de nap, també blanc, sense volva aparent. Aquesta confusió és més fàcil que es produeixi si abans ha plogut i, en rentar-se la cutícula, ha quedat descolorida i ha perdut les granulacions."
+    </string>
+
+    <string name="oudereig_semblants">"Farinera Borda (Amanita Phalloides)"</string>
+
+    <string name="camaroc_description">
+        \n\n
+        "El camagroc (Cantharellus lutescens), rossinyolic, rossinyol de pi, Vaqueta de pi, Misto, picornell de càrritx, picornell de pi o Ginesterola de pi, és un bolet que viu als boscs de pins, principalment als de pi roig, i és bon comestible. Creixen formant grans colònies a les molsoses obagues per la qual cosa són molt fàcils de trobar."
+        \n\n
+        "De barret bru grisenc, en un principi convex-umbilicat i després imbutiforme, de 3 a 6 cm de diàmetre i marge molt ondulat. La cara inferior, que és d'un bell color taronja suau, primer llisa i després venada, sense làmines definides, i s'uneix sense solució de continuïtat amb la cama, afuada i del mateix color."
+        \n\n
+        "La carn, que és elàstica, s'asseca fàcilment i desprèn aleshores un perfum intens, de brou de carn. Un cop assecat també es pot moldre. També es pot conservar havent agafat el bull i congelat."
+    </string>
+
+    <string name="camagroc_semblants"></string>
+
+    <string name="llenguadebou_description">
+        \n\n
+        "La llengua de bou, agulleta o picornell pelut (Hydnum repandum) és un bolet excel·lent comestible de l'ordre dels thelephorales."
+        \n\n
+        "És un bolet molt trencadís, difícil de collir sencer. El capell de 3-15 cm, passa de ser convex, a aplanat, i finalment aplanat deprimit."
+        \n\n
+        "És molt irregular i presenta el marge molt gruixut i lobulat. La superfície és ondulada, seca i finament vellutada, de color pàl·lid, que va del blanc a un groc molt clar, podent enfosquir-se fins a gairebé ataronjat. Himeni format per agulletes molt fràgils, trencadisses, decurrents, i més clares que el barret."
+        \n\n
+        "Esporada de color daurat. Peu curt, irregular i gruixut, sovint excèntric, primer és de color blanquinós, més tard ocre, i finalment es taca de bru ferruginós. Carn blanca, que es torna groga i posteriorment taronja en estar en contacte amb l'aire. És compacta i no sol corcar-se."
+        \n\n
+        "La seva olor és fruitada i el seu gust, lleugerament amargant."
+        \n\n
+        "Fong micorrizogen que viu en tota mena de boscos, encara que prefereix els planifolis. Encara que no gaire nombrós, es troba des del litoral fins als Pirineus."
+        \n\n
+        "És un bon comestible però abans requereix que es bulli una bona estona, ja que així perd l'amargantor de la carn. Especialment recomenat per guisats, doncs agafa el gust dels altres ingredients. Es pot conservar amb vinagre."
+        \n\n
+        "En els mateixos llocs, surt la llengua de bou vermellosa (Hydnum rufescens), d'una mida menor i de color més pujat fins a taronja vermellós, també comestible. A les pinedes de pi blanc, als mateixos llocs on surt la llenega (Hygrophorus latitabundus), surt la llengua de bou blanca (Hydnum albidum), totalment blanca, un bon comestible i menys amargant."
+    </string>
+
+    <string name="llenguadebou_semblants"></string>
+
+    <string name="camasecs_description">
+        \n\n
+        "El cama-sec -també anomenat carrereta, carrerola o fals moixernó- (Marasmius oreades) té la carn molt minsa i forma grans erols en els prats. "
+        \n\n
+        "Abans, quan no se'n sabia l'origen, s'associaven a l'activitat de les fades i les nimfes de les muntanyes."
+        \n\n
+        "És un bolet de talla petita, amb el barret de 2 a 6 cm, carnós i elàstic, de vegades amb un mamelló central, d'un groc ocraci fosc, amb làmines lliures, espaiades i gruixudes, del mateix to."
+        \n\n
+        "Peu prim, de 3 a 6 cm d'altura, ple i molt tenaç, que es recargola quan s'asseca."
+        \n\n
+        "La seva carn blanquinosa és dolça i suaument perfumada, i desprèn una olor suau i agradable."
+        \n\n
+        "Viu sobretot entre l'herba dels prats en grups nombrosos, sovint formant erols espectaculars, fent cercles que coincideixen amb la zona d'activitat del miceli. Es troba a la primavera i fins i tot a l'estiu, en llocs frescals."
+        \n\n
+        "És un comestible excel·lent i s'empra per adobar guisats de carn. Té l'inconvenient que cal molta paciència per a fer-ne un cistell però, en canvi, surt en grups i en gran nombre."
+        \n\n
+        "S'asseca fàcilment i pot guardar-se indefinidament per ser consumit fora de temporada."
+        \n\n
+        "Al mercat se'l ven envasat en sobrets i en capsetes amb l'incorrecte nom de moixernó."
+        \n\n
+        "Pot confondre's amb la colibia dels roures (Collybia dryophila), que se'n diferencia per les seues làmines més fines i cenyides i pel seu peu buit, que s'esquinça quan es recargola i que també és comestible, però poc apreciat."
+    </string>
+
+    <string name="camasec_semblants"></string>
+
+    <string name="trompeta_description">
+        \n\n
+        "La trompeta de la mort (Craterellus cornucopioides), o simplement trompeta, o vaqueta negra, rossinyolic negre, rossinyol negre, o orella d´ase, és un bolet comestible apreciat però molt desconegut per a molts boletaires. El seu aspecte gris-negrós fà que sigui rebutjat per molta gent, no obstant és un bolet tant o més bó que el seu parent el camagroc."
+        \n\n
+        "De color gris fosc o bru negrós, en forma de corn o d'embut profund (d'aqui el seu nom) que arriba gairebé fins a la base del peu, de marge estès, carn tenaç i aromàtica, amb la superfície himenial simplement rugosa. La seva carn prima i fibrosa difícilment es podreix."
+        \n\n
+        "Es troba en boscos de planifolis en sòls silícics humits. Poden trobar-se formant erols a l´estiu i a la tardor."
+        \n\n
+        "Té moltes aplicacions culinaries i hom les conserva seques en enfilalls o bé en pols com a condiment. Despren una olor que recorda la pruna i el seu gust és semblant a la trufa."
+        \n\n
+        "És molt semblant, però més fosca, a la trompeta grisa (Cantharellus Cinereus), també comestible. No se'l pot confondre amb cap espècie verinosa."
+    </string>
+
+    <string name="trompeta_semblants"></string>
+
+    <string name="camadeperdiu_description">
+        \n\n
+        "La cama de perdiu, bec de perdiu, pota de perdiu, o bitxac (Chroogomphus rutilus) és un bolet de la classe dels basidiomicets i comestible."
+        \n\n
+        "Aquest bolet, encara que pot arribar a tindre un barret d'uns 10 cm de diàmetre, sol trobar-se sempre de talla més petita. Presenta una coloració molt variada segons les contrades: a l'alta muntanya sol ser fosc, bru i, fins i tot, moradenc, mentre que en els boscos mediterranis acostuma a ésser més clar, amb tons bruns rogencs. El seu barret té forma de campana, quan és jove, amb un mamelló central, però a mesura que creix es va estenent i acaba ben pla. Les làmines, de color groc sofre, es van enfosquint amb l'edat i són gruixudes, espaiades i decurrents. Al principi estan protegides per un vel fugisser. El peu, de tons similars a la resta del bolet, està sovint torçat i s'aprima cap a la base."
+        \n\n
+        "La seva carn grogosa no fa cap olor ni té cap gust característic."
+    </string>
+
+    <string name="camadeperdiu_semblants"></string>
+
+
+    <string name="farineraborda_description">
+        \n\n
+        "La farinera borda, farinot o pentinella borda o cogoma borda (Amanita phalloides) és un bolet pudent de l'ordre de les agaricals, que a vegades pot adoptar forma de fal·lus. És altament tòxica, i la responsable de la majoria de morts per la intoxicació en la ingesta de bolets. Conté dos tipus de toxines: fal·lotoxines i amatoxines. El seu component tòxic principal és l'amanitina."
+        \n\n
+        "La farinera borda apareix preferentment en terrenys àcids i boscos de roure però pot aparèixer també en pinedes calcàries."
+        \n\n
+        "Es pot confondre fàcilment amb bolets del gènere Amanita com l'ou de reig i amb bolets del gènere Agaricus (xampinyons) i fins i tot amb la llenega tot i que aquesta no té ni volva ni anell el capell de la farinera borda s'hi assembla quan és jove i està cobert per una substància enganxatosa com la llenega."
+        \n\n
+        "L'Amanita phalloides és un bolet gros, el capell fa entre 5 i 15 cm de diàmetre. Primer és hemisfèric i després agafa forma plana.[1] El color pot ser groguenc o verd oliva però hi ha una varietat completament blanca. Les làmines són blanques. El peu o estípit és blanc amb taques grises i fa de 8 a 15 cm de llaarg i d'1 a 2 cm de gruix amb una mena de sac o volva a la base. La volva pot faltar si no s'ha agafat el bolet sencer."
+        \n\n
+        <b>Toxiciat: </b>"S'han fet molts estudis sobre la toxicitat d'aquest bolet però no hi ha antídot. S'estima que 30 grams (mig bolet) són suficients per matar una persona. En molts casos cal un transplantament de fetge, i la supervivència a la intoxicació està molt relacionada amb acórrer ràpidament als serveis mèdics. La toxicitat no es redueix ni per cocció, ni fregint ni assecant el bolet."
+        \n\n
+        "Com que sembla que té un gust bastant bo i que els símptomes tarden entre 6 i 24 hores a aparéixer, per tant la perillositat augmenta. Inicialment els símptomes són de naturalesa gastrointestinal amb còlics biliars dolor abdominal, diarrea aquosa i vòmits que poden portar a la deshidratació i en casos severs a la hipotensió, taquicàrdia, hipoglucèmia i problemes d'acidesa. Aquests primers símptomes desapareixen en la segona fase, dos o tres dies després d'ingerir el bolet però després es deteriora el fetge i torna a haver-hi diarrees, deliris i coma entre altres. La mort generalment succeeix entre 6 i 16 dies a partir de l'enverinamen"
+    </string>
+
+    <string name="farineraborda_semblants">Ou de Reig (Amanita caesarea)</string>
+
+    <string name="fredolicmetzinos_description">
+        \n\n
+        "El fredolic gros bord o fredolic metzinós (Tricholoma pardinum) és un dels bolets més tòxics del gènere Tricholoma, ja que ha estat relacionat en nombrosos casos d'enverinament a causa de la seua semblança amb espècies comestibles. La seua ingestió, fins i tot en petites quantitats, causa una gastroenteritis persistent per la presència d'una micotoxina desconeguda."
+        \n\n
+        "És un bolet força més gran que el fredolic normal (Tricholoma terreum), arribant a fer un barret de 20 cms en exemplars madurs, però perfectament pot quedar d'un tamany molt més modest degut a factors ambientals."
+        \n\n
+        "El color del barret del fredolic bord és gris, igual que el del fredolic bó, però molt més esquamós, i les escames sovint deixen veure el color de la carn que de vegades grogueja a les zones on entra en contacte amb l'aire. El peu del fredolic metzinós és molt més gros que el del fredolic bó, i també molt més robust, de carn compacta, ben al contrari que el trencadís peu del fredolic bó."
+        \n\n
+        "L'olor del fredolic bord recorda a la farina."
+        \n\n
+        <b>Toxiciat: </b> "La intoxicació pel fredolic bord es presenta poc després d'haver-lo ingerit, en un termini entre els 15 minuts i les dues hores (amb la digestió). Els símptomes són semblants als d'una gastroenteritis molt severa amb vòmits, diarrees, marejos i problemes hepàtics que es perllonguen força en el temps. L'hospitalització ràpida en cas d'ingesta és fonamental per fer rentat d'estòmac en cas que hi siguem a temps, evitar la deshidratació i evitar problemes hepàtics més greus."
+        \n\n
+        "S'acostuma a pensar que la intoxicació per fredolic bord no provoca la mort i no és del tot cert... Depèn de la quantitat ingerida i de la salut de la persona. L'any passat, per exemple, vam haver de lamentar alguna mort a causa d'aquest fredolic."
+        </string>
+
+    <string name="fredolicmetzinos_semblants">Fredolic (Tricholoma terreum)</string>
+
+    <string name="reigbord_description">
+        \n\n
+        "El reig bord o reig de fageda (Amanita muscaria)  és un fong basidiomicet psicoactiu, un dels molts del gènere Amanita. Es fa en boscos de coníferes i de caducifolis, on neix cap a final d'estiu o a l'entrant de la tardor."
+        \n\n
+        "El barret pot arribar als 18 cm. Té les làmines molt juntes, que són amples i de color blanc. L'esporada és blanca. El peu és de color blanc bru, bulbós a la base. Té un anell ample, fràgil i membranós, de color blanc. No posseeix volva membranosa en forma de sac, sinó granulacions molt bastes en forma de quadrets."
+        \n\n
+        <b>Toxiciat: </b> "Contràriament a la creença popular, no es tracta d'una espècie metzinosa, però sí que és indigesta -a causa del contingut en micoatropina, que causa vòmits- i psicotròpica, a causa del contingut en muscimol i acid ibotenic. La ingestió no produeix gairebé mai intoxicacions mortals, però sí que fa passar una mala estona als que l'hagin confós amb l'ou de reig, ja que en les fases primerenques s'assemblen força."
+    </string>
+
+    <string name="reigbord_semblants">Ou de Reig (Amanita caesarea)</string>
+
+    <string name="pixaca_description">
+        \n\n
+        "El pixacà, també anomenat pigat bord o pigat (Amanita pantherina), és un bolet amb el típic desenvolupament de les amanites."
+        \n\n
+        "Té un barret de fins a 12 cm de ròdol, amb el marge estriat, de color molt variable des del crema o beix fins al bru fosc o marró xocolata, amb abundants restes del vel fragmentat en esquames d'un blanc net, que es manté sense tacar-se ni enfosquir-se, fins i tot quan el bolet és vell. Les làmines són blanques i lliures."
+        \n\n
+        "El peu, que també és blanc, porta un anell poc evident que es disgrega amb facilitat. A la part de baix, les restes del vel que haurien de conformar la volva es limiten a dibuixar uns cèrcols disposats com la rosca d'un vis."
+        \n\n
+        "La carn blanca no fa a penes olor en els bolets joves. Els més vells fan pudor."
+        \n\n
+        <b>Toxiciat: </b> "És un bolet tòxic. Ocasiona trastorns digestius més forts encara que els produïts pel reig bord, però no porta els principis actius causants de les al·lucinacions. És totalment rebutjable i fàcil de reconèixer."
+    </string>
+
+    <string name="pixaca_semblants"></string>
+
+    <string name="matagent_description">
+        \n\n
+        "El matagent (Boletus satanas) és un bolet tingut popularment per molt tòxic, com indica el seu nom, però no és pas dels bolets més perillosos. La seva ingestió provoca trastorns gastrointestinals, amb vòmits i diarrees, que es manifesten poc després del seu consum. És aquest el bolet que figura en la foto de la portada."
+        \n\n
+        "Altres matagent també tòxics similars són el Boletus pulchrotinctus, que és més petit, amb el marge del barret de color rosa violaci, i els porus completament grocs; i el Boletus lupinus, que té el barret de color rosa lilós i els porus vermells. Es troben als mateixos hàbitats que Boletus satanas."
+        \n\n
+        "Amb un capell molt gran, de 10-30 cm, gairebé esfèric de jove i després convex, amb el marge excedent, incurvat i ondulat. La cutícula, que no és separable, és seca i un xic vellutada, de color blanc-crema gris pàl·lid."
+        \n\n
+        <b>Toxiciat: </b> "Espècie molt tòxica, produeix síndrome resinoide o gastrointestinal, amb vòmits, nàusees, dolor abdominal i diarrea. Evitant la deshidratació, no és mortal."
+    </string>
+
+    <string name="matagent_semblants">Cep (Boletus edulis)</string>
+
+    <string name="girgola_description">
+        \n\n
+        "La gírgola d'olivera o bolet d'oliu (Omphalotus olearius) és tòxic i bioluminiscent."
+        \n\n
+        "Té un barret de 4 a 12 cm, d'un bell color ataronjat, més aviat carnós, però molt prim cap al marge, que sol ser ondulat en els exemplars ben desenvolupats. De petit està tancat, però aviat s'obre i acaba en forma d'embut."
+        \n\n
+        "Les làmines són molt decurrents, fines i atapeïdes, i tenen una curiosa particularitat: són bioluminescents, és a dir, emeten una llum tènue, blanc-verdosa, visible en una habitació a les fosques. La intensitat de la llum no és sempre la mateixa, depèn de l'edat del bolet (els més joves són els més actius) i dels llocs on s'han collit."
+        \n\n
+        "Com en la majoria dels bolets que surten de soques en grups nombrosos, el peu sol ser tort i sovint no surt del bell mig del barret, sinó tirat cap a un cantó. Peu, làmines i barret són pràcticament del mateix color."
+        \n\n
+        "La carn és groga, la del peu més fosca, i fa una certa olor d'oli ranci."
+        \n\n
+        "Surt en flotes sobre vells troncs i arrels d'olivera, i també d'altres planifolis (com alzines i roures, no mai sobre els pins), des de l'estiu fins a final d'any."
+        \n\n
+        <b>Toxiciat: </b> "És un bolet tòxic, ja que provoca greus trastorns, com ara vòmits, diarrees i forts mals de ventre a la poca estona d'haver-ne menjat."
+
+    </string>
+
+    <string name="girgola_semblants">Rossinyol (Cantharellus cibarius)</string>
+
+    <string name="lletraga_description">
+        \n\n
+        "La lleterola de llet groga, el pinetell bord o el rovelló bord (Lactarius chrysorrheus) és una espècie de bolet pertanyent a la família de les russulàcies."
+        \n\n
+        "És un bolet que, vist pel damunt (amb el barret d'uns 4 a 10 cm, ataronjat i amb zones concèntriques), es confon fàcilment amb un rovelló. La cutícula presenta tons taronja pastanaga, zonat. El marge és incorbat i no estriat."
+        \n\n
+        "Làmines de color crema, primes, decurrents, atapeïdes i molt nombroses. Deixen anar, en ferir-les, un làtex de color blanc, molt abundant, que en contacte amb l'aire es torna groc. El peu és cilíndric, de 3-7 x 1,5-2 cm, del mateix color que el barret, curt, llis, ple de jove i buit de vell."
+        \n\n
+        "Carn blanca, que grogueja a l'aire, compacta, de sabor amarg i, al final, coent. Les espores són de color blanc crema, de 7-9 x 6-8 micres, d'ovoïdals a subgloboses i amb berrugues poc denses. Olor suau i fúngic."
+        \n\n
+        "Viu en boscos mixtos (preferentment sota les alzines, els roures i els castanyers), des de finals de l'estiu i durant tota la tardor."
+        \n\n
+        <b>Toxiciat: </b> "En cas de consumir-ne de tendres, i en quantitat, pot produir lleus trastorns intestinals (com ara, diarrea, vòmits i mal de ventre). És rebutjable i sense interès culinari pel seu gust coent (encara que és consumit, macerat en vinagre, per algunes persones com a aperitiu). "
+    </string>
+
+    <string name="lletraga_semblants">Rovelló (Lactarius deliciosus)</string>
+
+
+    <!-- (((((((((((((((((((( TEXTOS RECEPTES  )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))-->
+
+    <!--    APERITIUS  -->
+
+    <!-- >PIZZA DE BOLETS VARIATS AMB ALLIOLI I MEL -->
+    <string name="nom_curt_pizzabolets">Pizza de bolets</string>
+    <string name="nom_pizzabolets">Pizza de bolets variats amb alliol i mel</string>
+    <string name="ingredients_pizzabolets">
+        \n\n
+        "- 400 g bolets" " (llenega, fredolics..)"
+        \n
+        "- Ceba"
+        \n
+        "- Sal"
+        \n
+        "- Formatge"
+        \n
+        "- Allioli"
+        \n
+        "- Mel"
+        \n
+        "- Oli d'oliva"
+        \n
+        "- Tomàquet"
+        \n
+        "Per la base:"
+        \n
+        "- Farina"
+        \n\
+        "- Aigua"
+        \n
+        "- Sal"
+        \n
+        "- Llevat"
+        \n
+        "- Oli"
+    </string>
+    <string name="preparacio_pizzabolets">
+        "1. Sofregim la ceba i quan estigui cuita hi tirem els bolets i salem. El foc no ha de ser gaire fort perquè busquem que és confitin."\n
+        "2. Per fer la massa de la pizza barregem els ingredients i deixem reposar."\n
+        "3. Després estenem la massa i hi posem tomàquet triturat a la base. Hi tirem la barreja de bolets amb la ceba i, per sobre, uns encenalls dels formatges que triem."\n
+        "4. Enfornem durant 10 minuts. Quan el formatge s'hagi fos, hi tirem uns fils d'allioli. Ens facilitarà la feina fer-ho amb un biberó."\n
+        "5. Tornem a enfornar durant uns minuts fins que es gratini l'allioli. Servirem amb una mica de mel."\n
+    </string>
+    <string name="temps_pizzabolets">25 minuts</string>
+
+
+    <!-- >TORRADES AMB PEBROT ESCALIVAT, OUS DE REIG I FORMATGE PARMESÀ -->
+    <string name="nom_curt_torradespebrot">"Torrades d'ous de reig"</string>
+    <string name="nom_torradespebrot">"Torrades amb pebrot escalivat, ous de reig i formatge parmesà"</string>
+    <string name="ingredients_torradespebrot">
+        \n\n
+        "- Pa per torrar"
+        \n
+        "- Pebrot escalivat"
+        \n
+        "- Ous de reig"
+        \n
+        "- Formatge parmesà"
+        \n
+        "- Oli verge d'oliva"
+    </string>
+    <string name="preparacio_torradespebrot">
+        "Mentre netegem i laminem els ous de reig, torrem el pa al forn en llesques. Quan el pa està torrat, cobrim cada llesca amb pebrot escalivat. Sobre el pebrot escalivat hi posem un raig d'oli i els ous de reig laminats. Per acabar, ratllarem unes làmines de formatge parmesà ben fines i en deixarem una sobre cada torrada. Tornarem a posar les torrades al forn, ara només amb el gratinador i durant 45", amb la intenció que es fongui el formatge."
+    </string>
+    <string name="temps_torradespebrot">15 minuts</string>
+
+    <!-- >AMANIDA D'OUS DE REIG-->
+    <string name="nom_curt_amianidaousreig">"Amanida d'ous de reig"</string>
+    <string name="nom_amianidaousreig">"Amanida d'ous de reig"</string>
+    <string name="ingredients_amianidaousreig">
+        \n\n
+        "- Ous de reig"
+        \n
+        "- Oli de romaní"
+        \n
+        "- Sal en cristalls"
+    </string>
+    <string name="preparacio_amianidaousreig">
+        "Netegem els ous de reig amb cura de treure'n la terra i els freguem, si cal, amb un drap humit. Els tallem a làmines fines, hi afegim sal i els amanim amb oli de romaní."    </string>
+    <string name="temps_amianidaousreig">15 minuts</string>
+
+    <!-- LLENEGUES A LA BRASA-->
+    <string name="nom_curt_lleneguesbrasa">Llenegues a la brasa</string>
+    <string name="nom_lleneguesbrasa">Llenegues a la brasa</string>
+    <string name="ingredients_lleneguesbrasa">
+        \n\n
+        "- Llengues"
+        \n
+        "- Oli"
+        \n
+        "- Sal"
+         \n
+        "- Julivert"
+         \n
+        "- All"
+
+    </string>
+    <string name="preparacio_lleneguesbrasa">
+        "1. Netejar bé les llanegues i posar-les a la planxa amb una mica de sal."\n
+        "2. Triturar els all, el julivert i l'oli i posar-ho per damunt de les llanegues quan estiguin fetes i cruixents."    </string>
+    <string name="temps_lleneguesbrasa">15 minuts</string>
+
+
+    <!-- PETS DE LLOP ARREBOSSATS-->
+    <string name="nom_curt_petsdellop">Pets de llop arrebossats</string>
+    <string name="nom_petsdellop">Pets de llop arrebossats</string>
+    <string name="ingredients_petsdellop">
+        \n\n
+        "- pets de llop tendres"
+        \n
+        "- sal"
+        \n
+        "- farina"
+         \n
+        "- 1 ou"
+         \n
+        "- oli d'oliva per fregir"
+
+    </string>
+    <string name="preparacio_petsdellop">
+    "1. Netegeu els pets de llop."\n
+    "2 .Saleu-los i passeu-los per una pasta que haureu fet amb ou i farina."\n
+    "3. Fregiu-los a la paella fins que siguin ben rossos."    </string>
+    <string name="temps_petsdellop">15 minuts</string>
+
+    <!-- COCA DE VERDURA AMB LLOM I ROVELLONS-->
+    <string name="nom_curt_cocaverdura">Coca de rovellons</string>
+    <string name="nom_cocaverdura">Coca de verdura amb llom i rovellons</string>
+    <string name="ingredients_cocaverdura">
+        \n\n
+        <b>"Per fer la masa:"</b>
+        \n
+        "- Farina"
+        \n
+        "- Un got de cervesa sense alcohol o llevat de forner"
+         \n
+        "- 1 de got d'oli d'oliva"
+         \n
+        "- Sal"
+        \n\n
+        <b>"Per fer el farcit:"</b>
+        \n
+        "- Farina"
+        \n
+        "- Verdures de temporada (bledes, tomàquets, ceba tendra,alls, julivert)"
+         \n
+        "- Llom o carn magra de porc tallada a daus"
+         \n
+        "- Rovellons"
+           \n
+        "- Sal i pebre"
+
+    </string>
+    <string name="preparacio_cocaverdura">
+    "1. Barregeu la farina amb la cervesa i l'oli d'oliva, aneu-ho amassant amb els mans (poseu-hi farina suficient per tal que la massa quedi ben espessa, com si haguéssiu de fer un pa). Feu-ne una bola i deixeu-la reposar."\n
+    "2. Unteu amb oli una llauna d'anar al forn. Estireu-hi la massa de manera que quedi tota la safata ben coberta."\n
+    "3. Talleu les bledes ( només la fulla), les cebes tendres, els alls i el julivert. Feu-ho ben menut, de manera que quedi gairebé picat."\n
+    "4. Un cop tallades poseu totes les verdures dins d'un recipient que vagi bé per barrejar-les. Afegiu-hi sal, pebre negre, pebre vermell i una mica d'oli d'oliva. Remeneu-ho bé."\n
+    "5. Repartiu les verdures damunt de la massa. "\n
+    "6. Peleu un o dos de tomàquets i talleu-los a rodanxes ben primes."\n
+    "7. Repartiu els tomàquets damunt les verdures, poseu un xic de sal damunt de cada tall."\n
+    "8. Poseu la coca al forn prèviament escalfat a 180 graus. Deixeu-la coure durant tres quarts d'hora."\n
+    "9. Mentre es cou la coca trossegeu els rovellons."\n
+    "10. Poseu oli a una paella i saltegeu-hi el llom, quan sigui mig cuit salpebreu-lo i afegiu-hi els rovellons. Deixeu-ho coure uns minuts tot junt."\n
+    "11. Traieu la coca del forn i repartiu-hi uniformement el saltat de llom i rovellons. Torneu-ho a enfornar durant un quart d'hora.    </string>
+    <string name="temps_cocaverdura">1 hora</string>
+
+
+    <!-- Coca de fredolics -->
+    <string name="nom_curt_cocafredolics">Coca de fredolics</string>
+    <string name="nom_cocafredolics">Coca de fredolics</string>
+    <string name="ingredients_cocafredolics">
+
+        \n\n
+        "- 4 kg de fredolics"
+        \n
+        "- 1 llonganissa"
+         \n
+        "- cansalada (al gust)"
+         \n
+        "- oli d'oliva"
+        \n
+        "Per a la coca:"
+        \n
+        "- 1 kg de farina"
+         \n
+        "- 250 ml d'aigua"
+         \n
+        "- 1 pessic de llevat"
+
+    </string>
+    <string name="preparacio_cocafredolics">
+    "1. Netegeu els fredolics amb aigua abundant."
+    "2. Poseu una paella al foc amb una mica d'oli d'oliva i aboqueu-hi els fredolics."\n
+        "3. Prepareu una massa de coca amb l'aigua, la farina i el llevat i deixeu-la reposar entre 20 i 30 minuts, estireu-la amb l'ajuda d'un corró i col·loqueu-la dins d'un motlle."\n
+    "4. Escampeu els fredolics pel damunt de la coca i regueu-los amb un raig d'oli d'oliva."\n
+    "5. A continuació, fregiu la llonganisses i poseu-les, senceres, damunt la coca.
+    "6. Tot seguit enforneu la coca uns 15 minuts a una temperatura de 180º."\n
+        "7. Passat aquest temps, afegiu-hi la cansalada fregida i deixeu-la coure uns 15 minuts més."    </string>
+    <string name="temps_cocafredolics">40 minuts</string>
+
+
+    <!-- GALETES D'INCA AMB SUQUET DE SOBRASSADA I ROSSINYOLS-->
+    <string name="nom_curt_galetesinca">"Galetes d'Inca"</string>
+    <string name="nom_galetesinca">"Galetes d'Inca amb suquet de sobrassada i rossinyols"</string>
+    <string name="ingredients_galetesinca">
+
+        \n\n
+        "- 150 g de camagrocs"
+        \n
+        "- 100 g de sobrassada"
+         \n
+        "- 2 cullerades de mel de taronger"
+         \n
+        "- 2 cullerades soperes d'oli verge"
+        \n
+        "- 1 esquitx de vinagre de vi"
+        \n
+        "- 1 pela de clementina"
+         \n
+        "- 1 tasseta de cafè plena d'aigua"
+         \n
+        "- galetes salades o galetes d'Inca"
+
+    </string>
+    <string name="preparacio_galetesinca">
+    "1. Un cop nets, esqueixeu els rossinyols amb les mans i poseu-los a sofregir en una paella amb una mica d'oli."\n
+    "2. Quan els bolets estiguin daurats, afegiu-hi tres talls generosos de sobrassada i una pela de clementina."\n
+    "3. A continuació, incorporeu-hi una cullerada de mel de taronger."\n
+    "4. Afegiu tot seguit l'aigua i un esquitx de vinagre per evitar que es cremi la barreja i deixeu-ho coure durant 2 o 3 minuts."\n
+    "5. Col·loqueu la barreja sobre galetes salades o galetes d'Inca partides per la meitat. "\n
+        "Es mengen en calent i són un aperitiu excel·lent."    </string>
+    <string name="temps_galetesinca">15 minuts</string>
+
+
+
+    <!-- >PRIMERS PLATS -->
+
+    <!-- >Mongeta tendra amb llanegues i botifarra -->
+    <string name="nom_curt_mongetatendra">Mongeta tendra amb llanegues</string>
+    <string name="nom_mongetatendra">Mongeta tendra amb llanegues i botifarra</string>
+    <string name="ingredients_mongetatendra">
+        \n\n
+        "- 600 g de llenega negra fresca"
+        \n
+        "- 500 g de mongeta tendra del ganxet (potxa) bullida"
+        \n
+        "- 100 g de porro jove"
+        \n
+        "- 100 g de ceba tendra"
+        \n
+        "- 2 grans d'alls"
+        \n
+        "- 4 botifarres del perol amb bolets"
+        \n
+        "- sal"
+        \n
+        "- oli d'oliva verge extra"
+    </string>
+    <string name="preparacio_mongetatendra">
+        "Fregirem les botifarres del perol en una paella amb una mica d'oli d'oliva, fent que quedin ben cruixents i torradetes per fora."
+        "Per una altra banda, en una cassola de ferro colat, sofregirem l'all, la ceba i el porro jove. A continuació, hi afegirem les llenegues. Ho rectifiquem de sal i, quan faci 5 minuts que cou, hi afegirem finalment les mongetes cuites amb el seu suc de cocció."
+        "Ho deixarem bullir 3 minuts més i hi afegirem les botifarres abans de servir-ho."
+    </string>
+    <string name="temps_mongetatendra">45 minuts</string>
+
+    <!-- >RAVIOLIS AMB BOLETS I CREMA DE REIG -->
+    <string name="nom_curt_raviolisbolets">Raviolis amb bolets</string>
+    <string name="nom_raviolisbolets">Raviolis amb bolets i crema de reig</string>
+    <string name="ingredients_raviolisbolets">
+        \n\n
+        "- porro"
+        \n
+        "- pasta wantun"
+        \n
+        "- ous de reig"
+        \n
+        "- nata líquida"
+        \n
+        "- sal"
+        \n
+        "- pebre i cibulet"
+
+    </string>
+    <string name="preparacio_raviolisbolets">
+        "Comenceu fent el farcit del ravioli. Talleu la part blanca del porro i els bolets (qualsevol bolet queda bé, en aquest cas són reigs) a la brunesa fina. Ofegueu el porro amb una mica d'oli i quan estigui gairebé cuit, hi afegiu els bolets. Una mica de sal i pebre i deixeu-ho ofegar a foc baix. Al final poseu-hi una mica de nata líquida per acabar de lligar els ingredients. "\n
+        "Poseu una cassola amb aigua al foc. Quan bulli, hi fiqueu la pasta wantun. Aquesta pasta necessita molt poca estona de cocció, uns 30 segons. Traieu de seguida cada una de les plaques de pasta i estireu-les ràpidament sobre la taula. Poseu-hi el farcit al mig i ja podeu tancar el farcell."\n
+        "En una altra olla, poseu la resta de bolets (en aquest cas també són reigs) amb una mica d'oli i quan ja estiguin cuits, afegiu-hi nata líquida. Deixeu-ho a foc baix i quan agafi el color i el gust dels bolets ja ho podeu retirar del foc i passar-ho pel túrmix. Aquesta salsa la podeu posar per sobre els raviolis acabats de fer.
+        "I, si voleu, per acabar el plat, hi podeu afegir una mica de cibulet picat per damunt."
+    </string>
+    <string name="temps_raviolisbolets">45 minuts</string>
+
+
+    <!-- >AMANIDA DE BOLETS DE TEMPORADA AMB GAMBES DE PALAMÓS -->
+    <string name="nom_curt_amanidagambes">Amanida amb bolets i gambes</string>
+    <string name="nom_amanidagambes">"Amanida de bolets de temporada amb gambes de palamós"</string>
+    <string name="ingredients_amanidagambes">
+        \n\n
+        "- 500 g gambes grosses de Palamós"
+        \n
+        "- 500 g de bolets de temporada"
+        \n
+        "- Enciams variats fulla de roure"
+        \n
+        "- Escarola"
+        \n
+        "- Brots i pinyons torrats per decorar"
+        \n
+        "- Oli d'oliva"
+        \n
+        "- Sal i vinagre suau"
+
+    </string>
+    <string name="preparacio_amanidagambes">
+        "Netegeu bé el bolets i trossegeu-los. A continuació, salteu-los en una paella amb oli d'oliva, a foc lent. Retireu els bolets de la paella i poseu-los en un recipient de vidre o d'acer inoxidable. Reserveu-los."\n
+        "Infusioneu els caps de gamba en oli d'oliva. Amb aquest oli prepareu una vinagreta amb sal, pebre blanc i una mica de vinagre suau."\n
+        "Peleu les cues de les gambes i guardeu-ne els caps a part. Coeu-les en una paella amb oli d'oliva i deixeu-les molt poc fetes. Enretireu-les." \n
+        "Ja es pot muntar el plat: "\n
+        "Combineu els enciams, afegiu-hi els bolets i les gambes. "\n
+        "La resta de la decoració pot anar a gust del consumidor."
+    </string>
+    <string name="temps_amanidagambes">30 minuts</string>
+
+    <!-- >AMANIDA AMB CARPACCIO DE CEPS -->
+    <string name="nom_curt_amanidacarpaccio">Amanida amb carpaccio de ceps</string>
+    <string name="nom_amanidacarpaccio">Amanida amb carpaccio de ceps</string>
+    <string name="ingredients_amanidacarpaccio">
+        \n\n
+        "- 200 g de moll o roger"
+        \n
+        "- 200 g de ceps frescos"
+        \n
+        "- 80 g d'enokitake (el cama-sec d'hivern japonès)"
+        \n
+        "- 8 potes de guatlla"
+        \n
+        "- 8 fulles d'enciams variats"
+        \n
+        <b>"- Per a la vinagreta:"</b>
+        \n
+        "- 50 g de tòfona d'estiu"
+        \n
+        "- 2 cullerades soperes d'oli d'oliva"
+        \n
+        "- 1 cullerada de vinagre"
+        \n
+        "- sal"
+        \n
+        "- pebre blanc"
+
+    </string>
+    <string name="preparacio_amanidacarpaccio">
+        "1. Talleu el cep a làmines molt fines (millor si ho feu a màquina) i disposeu-lo com a base del plat."\n
+        "2. Desosseu les vuit potes de guatlla. Poseu-les a fregir en oli d'oliva (a foc lent)i afegiu-hi els lloms de moll o roger i una mica d'enokitake, un bolet japonès de cultiu."\n
+        "3. Quan tot estigui ben daurat, acabeu de muntar el plat dipositant damunt les làmines de cep una base d'amanida i al cim l'enokitake, les potes de guatlla i els lloms de moll."\n
+        "4. Prepareu una vinagreta amb l'oli, el vinagre, la sal, el pebre blanc i la tòfona d'estiu o tòfona blanca, i amaniu el plat."\n
+    </string>
+    <string name="temps_amanidacarpaccio">15 minuts</string>
+
+    <!-- >RISOTTO DE CEPS -->
+    <string name="nom_curt_risottoceps">Risotto de ceps</string>
+    <string name="nom_risottoceps">Risotto de ceps</string>
+    <string name="ingredients_risottoceps">
+        \n\n
+        "- 300 g de ceps"
+        \n
+        "- 500 g d'arròs bomba"
+        \n
+        "- 50 g de mantega"
+        \n
+        "- 4 talls de foie"
+        \n
+        "- 5 l de caldo de gallina"
+        \n
+        "- 150 g de formatge parmesà"
+        \n
+        "- 2 cullerades soperes d'oli d'oliva"
+        \n
+        "- 1 pessic de sal d'escata"
+    </string>
+    <string name="preparacio_risottoceps">
+        "1. Netegeu els ceps amb aigua i talleu-los a trossets."\n
+        "2. Sofregiu-los amb una mica de mantega i, quan comencin a agafar color, aboqueu-hi l'arròs."\n
+        "3. Espereu una mica abans de tirar-hi el caldo de gallina per tal que l'arròs perdi el midó."\n
+        "4. Heu d'anar adaptant la quantitat de caldo al procés de cocció de l'arròs i, quan ja estigui gairebé al punt (uns 12 minuts de cocció), afegiu-hi una mica més de mantega i el formatge parmesà."\n
+        "5. Escalfeu una planxa i, quan sigui ben calenta, passeu-hi, volta i volta, els talls de foie amb un pessic de sal d'escata."\n
+       " 6. Emplateu el risotto i presenteu-lo amb el foie al damunt."\n
+    </string>
+    <string name="temps_risottoceps">30 minuts</string>
+
+    <!-- >RAVIOLIS DE FOIE AMB MÚRGOLES I CARN D'OLLA -->
+    <string name="nom_curt_raviolisfoie">"Raviolis de fua i múrgoles"</string>
+    <string name="nom_raviolisfoie">"Raviolis de foie amb múrgoles i carn d'olla"</string>
+    <string name="ingredients_raviolisfoie">
+        \n\n
+        "- 200 g de pasta fresca de lasanya"
+        \n
+        "- 180 g de fetge d'ànec fresc o terrina "
+        \n
+        "- 100 g de carn d'olla (gallina, pilota, botifarra, peus de porc )"
+        \n
+        "- 40 g de múrgola seca"
+        \n
+        "- 15 g de mantega"
+        \n
+        "- 6 g de farina"
+        \n
+        "- 100 ml de llet"
+        \n
+        "- 100 ml de crema de llet"
+        \n
+        "- 50 ml de conyac"
+        \n
+        "- 1 ou"
+        \n
+        "- 1 fulla de llorer"
+        \n
+        "- 1 escalunya picada petita (o una ceba petita)"
+        \n
+        "- sal"
+         \n
+        "- pebre blanc"
+
+    </string>
+    <string name="preparacio_raviolisfoie">
+        "1. La nit anterior deixeu en remull les múrgoles seques."\n
+        "2. En primer lloc, prepareu el farcit dels raviolis. Poseu la llet en un cassó i feu-li arrencar el bull amb una fulla de llorer."\n
+        "3. A part, en una cassola petita foneu una mica de mantega i afegiu-hi la farina. Remeneu-ho, afegiu-hi la llet a poc a poc, i continueu remenant fins a obtenir una beixamel ben fina."\n
+        "4. Amb l'ajuda de la termomix o bé d'una batedora comuna, tritureu la carn d'olla amb la beixamel i reserveu la barreja."\n
+        "5. A continuació disposeu les làmines de pasta fresca damunt d'un taulell i pinteu-les amb ou batut."\n
+        "6. Un cop tingueu la pasta a punt, ja podeu començar a farcir una de les làmines amb el preparat que heu reservat. Damunt la pasta poseu cullerades de carn d'olla separades entre si uns 2 o 3 centímetres, i al damunt de cada una poseu-hi un tallet de foie."\n
+        "7. Tapeu la làmina on heu col·locat el farcit amb l'altra làmina de pasta fresca. Tot seguit, amb un motlle rodó (podeu utilitzar un got), talleu la pasta per fer els raviolis. Pressioneu lleugerament amb els dits les vores perquè no s'obrin els raviolis en bullir-los i reserveu-los. "\n
+        "8. Per preparar la salsa, en primer lloc, poseu la resta de la mantega en una paella i, a continuació, aboqueu-hi la ceba picada molt fina. Quan ja estigui ben daurada, salteu les múrgoles tallades a làmines. Regueu-ho amb el conyac i espereu que l'alcohol s'evapori. Finalment, afegiu-hi la crema de llet i el pebre negre, i deixeu-ho coure a foc suau uns 12 minuts."\n
+        "9. Ara només queda posar els raviolis a bullir. Prepareu una olla amb molta aigua salada i quan arrenqui el bull afegiu-hi els raviolis i deixeu-los bullir uns 2 minuts, fins que surin."\n
+        "10. Escorreu els raviolis, emplateu-los i banyeu-los amb la salsa de múrgoles."\n
+    </string>
+    <string name="temps_raviolisfoie">45 minuts</string>
+
+    <!-- >SOPA D'ALL AMB ROSSINYOLICS -->
+    <string name="nom_curt_sopaall">Sopa de rossinyolics</string>
+    <string name="nom_sopaall">"Sopa d'all amb rossinyolics"</string>
+    <string name="ingredients_sopaall">
+        \n\n
+        "- 150 g de rossinyolics"
+        \n
+        "- 80 g de pa llescat"
+        \n
+        "- 2 tomàquets assecats"
+        \n
+        "- 3 grans d'all"
+        \n
+        "- 1 tall de sobrassada"
+        \n
+        "- 800 ml d'aigua"
+        \n
+        "- ou batut"
+        \n
+        "- 50 ml d'oli d'oliva verge"
+        \n
+        "- 1 brot de marduix"
+        \n
+        "- Sal"
+
+    </string>
+    <string name="preparacio_sopaall">
+        "1. Netegeu els bolets i reserveu-los."\n
+        "2. En una cassola sofregiu els alls en oli d'oliva i afegiu-hi els tomàquets assecats tallats a trossos i el brot de marduix."\n
+        "3. Uns 2 minuts més tard, incorporeu-hi els rossinyolics i un tall de sobrassada, i deixeu-ho suar un parell de minuts."\n
+        "4. A continuació, aboqueu-hi l'aigua per fer la sopa i quan arrenqui el bull, saleu-la al gust i afegiu-hi les llesques de pa. En un minut i mig, ja s'haurà reblanit prou."\n
+        "5. Finalment, doneu consistència a la sopa afegint-hi un ou batut i, tot seguit, retireu-la del foc."\n
+        "6. Deixeu reposar la sopa 5 minuts perquè el pa s'amari bé i s'esmicoli. Ara ja podeu servir els plats."\n
+    </string>
+    <string name="temps_sopaall">30 minuts</string>
+
+    <!-- >SOPA DE MISO AMB LLANEGUES -->
+    <string name="nom_curt_sopamiso">Sopa de miso amb llanegues</string>
+    <string name="nom_sopamiso">Sopa de miso amb llanegues</string>
+    <string name="ingredients_sopamiso">
+        \n\n
+        "- 800 ml d'aigua"
+        \n
+        "- 200 g de llenegues"
+        \n
+        "- 100 g de miso (pasta feta de llavors de soja fermentades)"
+        \n
+        "- 1 tira de kombu (alga japonesa)"
+        \n
+        "- 20 g de tonyina seca"
+
+    </string>
+    <string name="preparacio_sopamiso">
+        "1. Feu un caldo posant a bullir en aigua una tira de kombu."\n
+        "2. A continuació, afegiu-hi la tonyina seca per acabar de donar-hi gust i deixeu-ho bullir uns 2 minuts més."\n
+        "3. Coleu el caldo, i un cop colat, feu-hi bullir les llenegues durant uns 15 minuts."\n
+        "4. Passat aquest temps, barregeu-hi el miso i ja tindreu la sopa a punt."\n
+    </string>
+    <string name="temps_sopamiso">30 minuts</string>
+
+    <!-- >SOPA DE FARIGOLA AMB FREDOLICS I CARGOLS -->
+    <string name="nom_curt_sopafarigola">Sopa de fredolics</string>
+    <string name="nom_sopafarigola">Sopa de farigola amb fredolics i cargols</string>
+    <string name="ingredients_sopafarigola">
+        \n\n
+        "- 400 g de bolets variats de temporada"
+        \n
+        "- 50 g llard de porc congelat"
+        \n
+        "- 500 cl de consomé de pollastre (ja preparat)"
+        \n
+        "- 500 cl de brou de verdures"
+        \n
+        "- 16 cargols"
+         \n
+        "- 5 llesques de pa integral torrat "
+         \n
+        "- 2 grans d'all"
+         \n
+        "- 30 g d'oli"
+         \n
+        "- 3 branques de farigola"
+         \n
+        "- un polsim d'herbes aromàtiques"
+        \n
+        <b>"Per al brou de verdures:"</b>
+        \n
+        "- 1 ceba"
+        \n
+        "- 1 porro"
+        \n
+        "- 1 branca d'api"
+        \n
+        "- 1 pastanaga"
+        \n
+        "- 1 tomàquet"
+         \n
+        "- una mica de col"
+
+    </string>
+    <string name="preparacio_sopafarigola">
+        "1. Incorporeu al consomé de pollastre ja preparat la farigola infusionada, els alls i una torrada de pa integral picada molt fina. Afegiu-hi un raig d'oli d'oliva i deixeu-ho emulsionar. Reserveu aquest brou en una gerra."\n
+        "2. Bulliu els cargols (nets i depurats) en un brou de verdures."\n
+        "3. Traieu-los de la closca i reserveu-los en un plat fondo."\n
+        "4. A continuació, talleu el llard de porc congelat a làmines molt fines i emboliqueu-hi els cargols."\n
+        "5. Netegeu els bolets i salteu-los en una paella amb l'oli calent i una mica de sal grossa. "\n
+        "6. Tot seguit, afegiu els bolets al plat on heu deixat els cargols embolicats amb el llard. "\n
+        "7. A continuació munteu el plat amb els cargols i els bolets, i banyeu-los amb el brou de farigola."\n
+        "8. Per decorar el plat escampeu unes fulles d'herbes aromàtiques i les torrades de pa ratllades molt i molt fines."\n
+        "9. Abans de tastar la sopa mescleu bé tots els ingredients."
+    </string>
+    <string name="temps_sopafarigola">30 minuts</string>
+
+
+    <!-- >SOPA DE BOLETS -->
+    <string name="nom_curt_sopabolets">Sopa de bolets</string>
+    <string name="nom_sopabolets">Sopa de bolets</string>
+    <string name="ingredients_sopabolets">
+        \n\n
+        "- 1 litre de brou de verdures"
+        \n
+        "- 400-500 g de bolets del país (rossinyolics, orellanes, rossinyols i trompetes)"
+        \n
+        "- 20 o 30 g de pinyons"
+        \n
+        "- 2 grans d'all"
+        \n
+        "- 1 o 2 cullerades de farina de blat de moro"
+         \n
+        "- 1 got de llet"
+         \n
+        "- una mica de suc de rostit"
+         \n
+        "- oli d'oliva"
+        \n
+        <b>"Per al brou de verdures:"</b>
+        \n
+        "- 1 tija d'api"
+        \n
+        "- 1 grapat de mongeta tendra"
+        \n
+        "- 1 porro"
+        \n
+        "- 1 ceba"
+        \n
+        "- 1 pastanaga"
+         \n
+        "- 1 carxofa"
+          \n
+        "- 1 nap"
+          \n
+        "- 1 fulla de bledes"
+          \n
+        "- aigua"
+
+    </string>
+    <string name="preparacio_sopabolets">
+        "1. Prepareu un brou de verdures amb l'api, la mongeta tendra, el porro, la ceba, la pastanaga, la carxofa, el nap, les bledes i l'aigua. Deixeu-lo bullir uns 50 minuts."\n
+        "2. Mentrestant poseu els bolets en una cassola de fang amb un raig d'oli d'oliva i feu-los coure."\n
+        "3. Un cop cuits, passeu-los per una paella amb una mica de suc de rostit per donar-los més gust i perquè no quedin bullits."\n
+        "4. Prepareu una picada amb els alls i els pinyons i reserveu-la."\n
+        "5. A part, barregeu una mica de farina de blat de moro amb la llet per espessir la sopa i reserveu aquesta barreja."\n
+        "6. Coleu el brou de verdures amb un colador xinès i afegiu-hi els bolets i la farina amb llet, també passada pel colador."\n
+        "7. Finalment, incorporeu-hi la picada, remeneu-ho una mica fins que quedin tots els ingredients ben integrats i ja podeu servir la sopa."
+    </string>
+    <string name="temps_sopabolets">1 hora</string>
+
+    <!-- >REMENAT DE FREDOLICS -->
+    <string name="nom_curt_remenatfredolics">Remenat de fredolics</string>
+    <string name="nom_remenatfredolics">Remenat de fredolics</string>
+    <string name="ingredients_remenatfredolics">
+        \n\n
+        "- 500 g de fredolics"
+        \n
+        "- 4 ous"
+        \n
+        "- 1 ceba (d'uns 200 g)"
+        \n
+        "- 4 cullerades soperes d'oli d'oliva"
+        \n
+        "- Sal"
+
+    </string>
+    <string name="preparacio_remenatfredolics">
+        "1. Netegeu els fredolics i deixeu-los sencers."\n
+        "2. En una paella amb oli poseu a coure la ceba, saleu-la i, un cop sigui daurada, afegiu-hi els fredolics."\n
+        "3. Quan els bolets comencin a deixar anar l'aigua, afegiu els ous per fer el remenat."\n
+    </string>
+    <string name="temps_remenatfredolics">30 minuts</string>
+
+
+    <!-- >FIDEUADA AMB CEPS -->
+    <string name="nom_curt_fideuadaceps">Fideuada amb ceps</string>
+    <string name="nom_fideuadaceps">Fideuada amb ceps</string>
+    <string name="ingredients_fideuadaceps">
+        \n\n
+        "- Ceps deshidratats"
+        \n
+        "- Cebes"
+        \n
+        "- Fideus d'un gruix mitjà"
+        \n
+        "- All, julivert, sal i pebre"
+
+    </string>
+    <string name="preparacio_fideuadaceps">
+        "1. Agafeu un grapat de ceps cecs i poseu-los en remull durant una estona."\n
+        "2. Sofregiu ceba en una paella fins que quedi ben confitada."\n
+        "3. Amb un ganivet piqueu els ceps rehidratats i afegiu-los a la paella on hi teniu la ceba."\n
+        "4. Piqueu una mica d'all i julivert i afegiu-ho a la paella. Salpebreu-ho al vostre gust."\n
+        "5. Tireu-hi els fideus i remeneu-los fins que siguin rossos."\n
+        "6. Apugeu el foc i tireu-hi l'aigua, més o menys un cullerot per cada comensal. Va bé fer-ho amb l'aigua de rehidratar els ceps bé amb un brou suau."\n
+        "7. Deixeu-ho coure a foc viu durant un quart d'hora. Serviu-ho tot seguit."\n
+    </string>
+    <string name="temps_fideuadaceps">30 minuts</string>
+
+
+    <!-- >TEMPURA DE ROVELLONS I VERDURES -->
+    <string name="nom_curt_tempurarovellons">Tempura de rovellons</string>
+    <string name="nom_tempurarovellons">Tempura de rovellons i verdures</string>
+    <string name="ingredients_tempurarovellons">
+        \n\n
+        "- 150 g de farina"
+        \n
+        "- 12 rovellons"
+        \n
+        "- 2 cebes"
+        \n
+        "- 2 pastanagues"
+         \n
+        "- 2 carbassons"
+         \n
+        "- 1 albergínia"
+         \n
+        "- 12 mongetes verdes"
+         \n
+        "- 1 ou"
+         \n
+        "- glaçons o aigua freda"
+         \n
+        "- 1 l d'oli de sèsam o de gira-sol"
+         \n
+        "- sal"
+         \n
+        "- soja"
+         \n
+        "- sake"
+         \n
+        "- sucre"
+
+    </string>
+    <string name="preparacio_tempurarovellons">
+        "1. Netegeu els rovellons i les verdures i talleu les pastanagues, els carbassons, les cebes i l'albergínia a làmines."\n
+        "2. En una olla petita barregeu l'aigua, la soja, el sake i el sucre i poseu-ho al foc fins que el sucre estigui ben dissolt. Si ho preferiu també podeu comprar mirin (una mena de sake i sucre junts que venen a les botigues especialitzades) per acompanyar la tempura."\n
+        "3. En un bol, bateu l'ou i tot seguit afegiu-hi l'aigua freda o els glaçons, i a continuació la barregeu-hi la farina. El contrast de la pasta freda amb l'oli calent afavoreix un arrebossat més cruixent."\n
+        "4. Arrebosseu les verdures amb la barreja anterior i aneu-les fregint per etapes en una paella fonda amb l'oli calent (a 1800; penseu que és important que es mantingui a aquesta temperatura durant tot el procés). Deixeu per al final els rovellons. La cocció dura entre 2 i 3 minuts, depenent de la verdura, per exemple les pastanagues necessiten 3 minuts i els carbassons, 2. Una darrera recomanació: és millor que sigui oli de sèsam o de gira-sol; el d'oliva té un sabor massa predominant."\n
+        "5. A mesura que tingueu les verdures cuites, deixeu-les escórrer damunt d'una reixeta o en un paper absorbent. "\n
+        "6. Presenteu la tempura i la salsa calentes."\n
+    </string>
+    <string name="temps_tempurarovellons">30 minuts</string>
+
+
+    <!-- >OU MERENGAT AMB ROSSINYOLS, TROMPETES I TÒFONES D'ESTIU -->
+    <string name="nom_curt_oumerengat">Ou merrengat amb rossinyols</string>
+    <string name="nom_oumerengat">"Ou merengat amb rossinyols, trompetes i tòfones d'estiu"</string>
+    <string name="ingredients_oumerengat">
+        \n\n
+        "- 200 g de rossinyols"
+        \n
+        "- 200 g de trompetes"
+        \n
+        "- 20 g de tòfona d'estiu"
+        \n
+        "- 8 ous"
+         \n
+        "- 2 grans d'all"
+         \n
+        "- 20 g de julivert"
+         \n
+        "- oli d'oliva"
+         \n
+        "- sal d'escata"
+         \n
+        <b>"Per al puré de patata:"</b>
+         \n
+        "- 500 g de patates bullides"
+         \n
+        "- 100 g de mantega"
+         \n
+        "- 200 ml de llet"
+         \n
+        "- 50 ml d'oli d'oliva"
+         \n
+        "- 10 g de sal"
+
+    </string>
+    <string name="preparacio_oumerengat">
+        "1. Primer de tot, bateu vuit clares a punt de neu, d'una en una, per separat."\n
+        "2. Tot seguit, en una paella amb oli ben calent i, ajudant-vos amb una cullera, aboqueu-hi, d'una en una, les clares en forma de volcà."\n
+        "3. Poseu els rovells a dins dels volcans ajudats d'una cullera, i tapeu-los d'un a un amb una mica de la mateixa clara. Finalment, cobriu-ho amb el puré de patata que haureu preparat prèviament."\n
+        "4. En una safata de forn col·loqueu els volcans i enforneu-los durant 3 minuts a una temperatura de 2000. "\n
+        "5. Mentrestant netegeu els bolets i escorreu-los."\n
+        "6. Poseu una paella al foc amb l'oli i els dos grans d'all, quan l'oli sigui molt calent aboqueu-hi, primer, els rossinyols i, després, les trompetes. Tot seguit, afegiu-hi el julivert. "\n
+        "7. Serviu els volcans acompanyats dels bolets saltats i una mica de tòfona d'estiu ratllada pel damunt, sal d'escata i un raig d'oli d'oliva."\n
+
+        "CONSELL: Si incorporeu els bolets a la paella quan l'oli és ben calent, els porus dels bolets es tapen ràpidament i, d'aquesta manera, s'aconsegueix una textura de cocció idònia."\n
+    </string>
+    <string name="temps_oumerengat">30 minuts</string>
+
+
+    <!-- >ARRÒS AMB BACALLÀ I BOLETS -->
+    <string name="nom_curt_arrosbacalla">"Arròs amb bacallà i bolets"</string>
+    <string name="nom_arrosbacalla">"Arròs amb bacallà i bolets"</string>
+    <string name="ingredients_arrosbacalla">
+        \n\n
+        "- Rovellons i camagrocs"
+        \n
+        "- Bacallà"
+        \n
+        "- All"
+        \n
+        "- Ceba"
+         \n
+        "- Tomàquet"
+         \n
+        "- Pebrot"
+         \n
+        "- Oli d'oliva"
+         \n
+        "- Arròs (entre 60 i 100 gr. per persona)"
+         \n
+        "- Caldo (fet amb ceba fregida i all i les espines de bacallà i una mica de farigola)"
+
+    </string>
+    <string name="preparacio_arrosbacalla">
+        "1. Per una banda netegem i tallem els bolets. "\n
+        "2. Per l'altra, pelem un gra d'all i tallem la ceba"\n
+        "3. Passem per la paella la ceba i l'all amb una fulla de llorer."\n
+        "4. Comencem el caldo amb una mica de bacallà i les espines d'aquest i hi afegim la ceba i l'all que hem passat per la paella."\n
+        "5. Mentrestant amb una barreja de bolets prepararem el sofregit per l'arròs en una paella."\n
+        "6. Triturem ceba i pebrot, amb una mica d'oli amb la trituradora. Ho posem a la paella amb els bolets i hi afegim el tomàquet."\n
+        "7. Un cop tot estigui ben sofregit, hi posem l'arròs i el passem un parell de minuts."\n
+        "8. Hi afegim el caldo (4 mides de caldo per una d'arròs) i el deixem reduir. Posem el bacallà tallat petit al damunt i deixem que passin 10 minuts."\n
+
+    </string>
+    <string name="temps_arrosbacalla">45 minuts</string>
+
+
+    <!-- >ARRÒS MAR I MUNTANYA -->
+    <string name="nom_curt_arrosmarmuntanya">"Arròs mar i muntanya"</string>
+    <string name="nom_arrosmarmuntanya">"Arròs  mar i muntanya"</string>
+    <string name="ingredients_arrosmarmuntanya">
+        \n\n
+        "- Rovellons i camagrocs"
+        \n
+        "- 1 Pebrot vermell"
+        \n
+        "- xipirons"
+        \n
+        "- brou de peix"
+         \n
+        "- sofregit de tomàquet"
+         \n
+        "- arròs"
+         \n
+        "- all"
+         \n
+        "- julivert"
+         \n
+        "- oli"
+        \n
+        "- tomàquet"
+        \n
+        "- seba"
+
+    </string>
+    <string name="preparacio_arrosmarmuntanya">
+        "1. Tallar un pebrot vermell i sofregir-lo amb una mica d'oli. Netejar els bolets i afegir-los al pebrot."\n
+        "2. Afegir els xipirons."\n
+        "3. Salar i afegir una mica de pebre vermell i farigola."\n
+        "4. Afegir el tomàquet que haurem sofregit prèviament amb ceba."\n
+        "5. Incorporar també la salsa verda, que haurem preparat amb oli, all i julivert."\n
+        "6. Afegir l'arròs i remenar per fer que absorbeixi bé tots els ingredients de la cassola."\n
+        "7. Per acabar, afegir el fumet de peix i esperar 15 minuts."\n
+        "8. Abans de servir hem de deixar reposar l'arròs 5 minuts."\n
+
+    </string>
+    <string name="temps_arrosmarmuntanya">30 minuts</string>
+
+
+    <!-- >FIDEUS A LA CASSOLA AMB CAMAGROCS I ESSÈNCIA DE LLENGÜES DE BOU -->
+    <string name="nom_curt_fideuscassola">"Fideus a la cassola amb camagrocs"</string>
+    <string name="nom_fideuscassola">"Fideus a la cassola amb camagrocs i essència de llengües de bou"</string>
+    <string name="ingredients_fideuscassola">
+        \n\n
+        "- camagrocs"
+        \n
+        "- llengües de bou"
+        \n
+        "- ceba"
+        \n
+        "- all"
+         \n
+        "- pebrot verd"
+         \n
+        "- tomàquet natural "
+         \n
+        "- 600 g de costella de porc"
+         \n
+        "- fideus"
+         \n
+        "- 1 botifarra negra"
+        \n
+        "- aigua"
+        \n
+        "- oli, sal i sucre"
+
+    </string>
+    <string name="preparacio_fideuscassola">
+        "1. Netegem les llengües de bou, procurant treure'n bé les agulletes, i les posem a bullir amb aigua i un bon grapat de sal per fer el brou de llengües."\n
+        "2. Mentrestant, netegem els camagrocs i els reservem."\n
+        "3. Salpebrem el costelló de porc i el fem enrossir en una paella amb una mica d'oli. Un cop daurat, el reservem."\n
+        "4. Per començar a fer el sofregit, fem enrossir la ceba i un gra d'all."\n
+        "5. Hi afegim el pebrot verd tallat petit i, per últim, el tomàquet natural triturat. Ho rectifiquem de sal i hi afegim una mica de sucre per treure l'acidesa del tomàquet. "\n
+        "6. Quan el sofregit estigui fent xup-xup hi afegim els camagrocs i ho deixem coure tot fins que es redueixi."\n
+        "7. Per acabar, hi afegim la botifarra de Moià tallada a rodanxes i el costelló de porc."\n
+        "8. Només faltarà afegir-hi els fideus, remenar-ho bé i anar-hi afegint a poc a poc el brou de llengües de bou que hem preparat al principi. Quan els fideus estiguin cuits, ja els podem emplatar."\n
+
+    </string>
+    <string name="temps_fideuscassola">45 minuts</string>
+
+
+    <!-- >MACARRONS AMB ROVELLONS I GAMBES -->
+    <string name="nom_curt_macarronsrovellons">"Macarrons amb rovellons i gambes"</string>
+    <string name="nom_macarronsrovellons">"Macarrons amb rovellons i gambes"</string>
+    <string name="ingredients_macarronsrovellons">
+        \n\n
+        "- rovellons"
+        \n
+        "- macarrons"
+        \n
+        "- gambes"
+        \n
+        "- 200 ml de crema de llet"
+         \n
+        "- 2 o 3 alls"
+         \n
+        "- sal"
+         \n
+        "- julivert"
+
+    </string>
+    <string name="preparacio_macarronsrovellons">
+        "1. Netegeu i trinxeu els bolets."\n
+        "2. Poseu oli en una paella i afegiu-hi els alls tallats ben petits. Un cop l'oli hagi agafat el gust dels alls, hi afegim les gambes pelades i netes."\n
+        "3. Mentrestant posem aigua a bullir amb sal per coure-hi els macarrons."\n
+        "4. Quan les gambes siguin cuites, hi afegim els bolets nets i tallats i deixem que redueixin. Fins que no hagin tret l'aigua no hi afegirem la sal, el julivert tallat ben petit i la crema de llet."\n
+        "5. Remeneu-ho tot bé i, si cal, rectifiqueu de sal."\n
+        "6. Un cop tot estigui ben lligat ja hi podem afegir els macarrons que haurem bullit prèviament (ben escorreguts)."\n
+        "7. Per acabar el plat, remenem bé tots els ingredients i hi afegim una mica més de julivert."\n
+    </string>
+    <string name="temps_macarronsrovellons">45 minuts</string>
+
+
+    <!-- >MUSSACA DE BOLETS -->
+    <string name="nom_curt_mussacabolets">"Mussaca de bolets"</string>
+    <string name="nom_mussacabolets">"Mussaca de bolets"</string>
+    <string name="ingredients_mussacabolets">
+        \n\n
+        "- rovellons"
+        \n
+        "- trompetes de la mort"
+        \n
+        "- 1 ceba"
+        \n
+        "- tomàquet ratllat o salsa de tomàquet"
+         \n
+        "- 250 g de carn picada"
+         \n
+        "- 4 albergínies mitjanes"
+         \n
+        "- formatge ratllat"
+         \n
+        "- mig got de vi blanc"
+         \n
+        <b>"Per fer la beixamel:"</b>
+         \n
+        "- 80 g de mantega"
+         \n
+        "- 80 g de farina"
+         \n
+        "- 700 cl de llet"
+         \n
+        "- mantega"
+         \n
+        "- sal"
+
+    </string>
+    <string name="preparacio_mussacabolets">
+        "1. Trieu els bolets, netegeu-los i talleu-los. Passeu-los per la paella i reserveu-los."\n
+        "2. Poseu la ceba tallada en una paella i un cop enrossida afegiu-hi la carn picada (que haureu salpebrat prèviament)."\n
+        "3. Incorporeu-hi la salsa de tomàquet i el mig got de vi blanc."\n
+        "4. Mentrestant, talleu les albergínies a rodanxes i enfarineu-les. Fregiu-les en oli ben calent i deixeu-les sobre un paper absorbent per retirar-ne l'excés d'oli. "\n
+        "5. Un cop fregides, ja podeu muntar la mussaca posant primer una capa d'albergínia. Heu de cobrir tota la safata. "\n
+        "6. Tot seguit poseu-hi una segona capa de sofregit de carn i una tercera capa amb els rovellons que heu reservat. Per acabar afegiu-hi una altra capa de carn picada i formatge ratllat i cobriu-ho tot amb una última capa d'albergínia."\n
+        "7. Passeu les trompetes de la mort per una paella i afegiu-les a la beixamel. Tritureu-ho tot bé i cobriu la mussaca amb aquesta salsa. "\n
+        "8. Poseu-hi formatge ratllat al damunt i gratineu-ho al forn (uns 10 minuts a 180º). "\n
+
+    </string>
+    <string name="temps_mussacabolets">45 minuts</string>
+
+
+
+
+    <!-- >SEGONS PLATS -->
+
+    <!-- >BACALLÀ AMB PIL-PIL DE CEPS I TÒFONA -->
+    <string name="nom_curt_bacallapilpil">"Bacallà de ceps i tòfona"</string>
+    <string name="nom_bacallapilpil">"Bacallà amb pil-pil de ceps i tòfona"</string>
+    <string name="ingredients_bacallapilpil">
+        \n\n
+        "- 4 talls de morro de bacallà dessalat (de 150 g aprox. cada un)"
+        \n
+        "- 100 g de garrafons o mongetes "
+        \n
+        "- seques grans cuites"
+        \n
+        "- 150 g de ceps frescos"
+        \n
+        "- 40 g de tòfona d'hivern"
+        \n
+        "- 3 grans d'all"
+        \n
+        "- 200 ml d'oli d'oliva"
+        \n
+        "- 1 branqueta de farigola"
+        \n
+        "- porradell picat"
+        \n
+        "- sal"
+    </string>
+    <string name="preparacio_bacallapilpil">
+        "1. Netegeu la tòfona amb una mica d'aigua i un raspallet tou (podeu usar un raspall de dents) i reserveu-la."\n
+        "2. A continuació col·loqueu el bacallà en una safata fonda que pugui anar al forn submergit en oli d'oliva, afegiu-hi la farigola, el porradell i els grans d'all aixafats."\n
+        "3. Tapeu-ho amb paper d'alumini i poseu-ho al forn durant 40 minuts a una temperatura de 80º perquè quedi ben confitat."\n
+        "4. Quan acabi la cocció podem començar a preparar el pil-pil. Salteu els ceps tallats ben fi ns en una paella amb una mica de l'oli de confitar el bacallà. Afegiu-hi una mica d'all laminat, rectifiqueu-ho de sal i afegiu-hi dues cullerades soperes del suc que ha deixat el bacallà en confitar "\n
+        "5. A foc molt lent aneu afegint oli d'oliva a la cocció i aneu-ho remenant constantment perquè us quedi el pil-pil ben lligat i perquè l'oli emulsioni suaument."\n
+        "6. Al fi nal, aboqueu-hi els garrafons o les mongetes ja cuites i el bacallà confitat; escalfeu-ho lleugerament i retireu-ho del foc."\n
+        "7. En emplatar-ho ratlleu una mica de tòfona pel damunt per aromatitzar el bacallà. "\n
+    </string>
+    <string name="temps_bacallapilpil">45 minuts</string>
+
+
+    <!-- >CALAMARS FARCITS DE CAMA-SECS DE SANT MIQUEL -->
+    <string name="nom_curt_calamarsfarcits">"Calamars farcits de cama-secs"</string>
+    <string name="nom_calamarsfarcits">"Calamars farcits de cama-secs"</string>
+    <string name="ingredients_calamarsfarcits">
+        \n\n
+        "- 8 calamars mitjans"
+        \n
+        "- 500 g de cama-secs de tardor (o bromosa)"
+        \n
+        "- 450 g de picada de vedella o de porc (o botifarra esparracada)"
+        \n
+        "- 2 ous durs"
+        \n
+        "- 10 o 12 ametlles"
+        \n
+        "- 2 tomàquets"
+        \n
+        "- 2 cebes"
+        \n
+        "- 1 copa de vi blanc"
+        \n
+        "- oli d'oliva"
+        \n
+        "- sal"
+    </string>
+    <string name="preparacio_calamarsfarcits">
+        "1. Netegeu els bolets amb aigua abundant i assequeu-los damunt d'un drap."\n
+        "2. Mentre s'eixuguen netegeu els calamars. Trossegeu-ne les potes i poseu-les a coure amb força ceba a daus petits en una paella amb una mica d'oli."\n
+        "3. Quan les potes dels calamars i la ceba ja hagin enrossit, afegiu-hi la carn picada o la botifarra esparracada i tot seguit poseu-hi una cullerada de tomàquet que haureu sofregit prèviament."\n
+        "4. En una paella a part, salteu els bolets fins que perdin tota l'aigua. Quan ja siguin a punt, aboqueu-los a la paella on teniu les potes de calamars i la carn."\n
+        "5. A continuació, perquè us quedi ben lligada la barreja del farcit, afegiu-hi l'ou dur picat, remeneu-ho bé i quan estigui a punt, retireu la paella del foc."\n
+        "6. Ompliu els calamars amb el farcit i tanqueu-los amb un escuradents."\n
+        "7. Col·loqueu els calamars en una paella amb una mica d'oli i deixeu-los enrossir durant uns minuts. Afegiu-hi una copeta de vi blanc i deixeu que l'alcohol redueixi."\n
+        "8. Un cop passat aquest temps, emplateu-los i tireu-hi pel damunt una picada d'ametlles."\n\n
+
+        "CONSELL: Podeu acompanyar els calamars amb patates fregides tallades a daus."
+    </string>
+    <string name="temps_calamarsfarcits">30 minuts</string>
+
+
+    <!-- >CANELONS DE ROVELLONS -->
+    <string name="nom_curt_canelonsrovellons">"Canelons de rovellons"</string>
+    <string name="nom_canelonsrovellons">"Canelons de rovellons"</string>
+    <string name="ingredients_canelonsrovellons">
+        \n\n
+        "- 500 g de carn picada (vedella/porc)"
+        \n
+        "- 500 g de rovellons"
+        \n
+        "- 12 làmines de pasta de canelons"
+        \n
+        "- 1 ceba gran"
+        \n
+        "- 50 g de formatge ratllat"
+        \n
+        "- mantega"
+        \n
+        "- oli d'oliva"
+        \n
+        "- all"
+        \n
+        "- julivert"
+        \n
+        <b>"Per fer la beixamel:"</b>
+         \n
+        "- 60 g de farina"
+         \n
+        "- 120 g de mantega"
+         \n
+        "- 400 g de llet"
+         \n
+        "- 1 pessic de nou moscada"
+         \n
+        "- sal"
+    </string>
+    <string name="preparacio_canelonsrovellons">
+        "1. Renteu els rovellons ben nets i talleu-los en quatre trossos."\n
+        "2. Bulliu la pasta dels canelons amb abundant aigua salada durant uns 15 minuts. Un cop acabada la cocció, retireu la pasta del foc i deixeu-la refredar damunt d'un drap de cuina."\n
+        "3. Mentrestant, en una paella poseu la carn picada de porc (o de vedella) a sofregir, amb una mica de sal i pebre i, seguidament, afegiu-hi la ceba picada i deixeu que cogui tot plegat."\n
+        "4. En una altra paella fregiu els rovellons amb una mica d'oli. Deixeu que s'evapori l'aigua i afegiu-hi un pessic de sal i l'all i el julivert trinxats."\n
+        "5. Un cop cuit piqueu la carn i els rovellons amb el túrmix i ja tindreu el farcit a punt."\n
+        "6. Prepareu una beixamel amb la farina, la mantega, la llet, un polsim de sal i una mica de nou moscada."\n
+        "7. Farciu els canelons amb el preparat i col·loqueu-los en una safata untada amb una mica de mantega i farina. Cobriu-los amb la beixamel i escampeu el formatge ratllat pel damunt."\n
+        "8. Gratineu-los al forn i ja els teniu llestos."\n
+    </string>
+    <string name="temps_canelonsrovellons">30 minuts</string>
+
+
+    <!-- >CASSOLA DE ROVELLONS AMB BOTIFARRA I CARGOLS -->
+    <string name="nom_curt_cassolarovellons">"Cassola de rovellons i cargols"</string>
+    <string name="nom_cassolarovellons">"Cassola de rovellons amb botifarra i cargols"</string>
+    <string name="ingredients_cassolarovellons">
+        \n\n
+        "- 80 rovellons (20 per persona)"
+        \n
+        "- 5 botifarres"
+        \n
+        "- 8 tomàquets naturals"
+        \n
+        "- 60 cargols"
+        \n
+        "- 1 pebrot escalivat"
+        \n
+        "- 2 grans d'all"
+        \n
+        "- 1 pessic de farina"
+        \n
+        "- oli d'oliva verge"
+        \n
+        "- conyac"
+         \n
+        "- sal"
+         \n
+        "- pebre"
+         \n
+        "- julivert"
+
+    </string>
+    <string name="preparacio_cassolarovellons">
+        "1. Netegeu els rovellons (si no són gaire bruts podeu fer-ho amb un drap humit) i reserveu-los."\n
+        "2. Poseu els cargols en una olla amb aigua i feu-los arrencar el bull, a continuació escorreu-los bé i fregiu-los en una paella amb olis adobats (amb herbes) o oli d'oliva verge."\n
+        "3. Afegiu-hi un pessic de farina i deixeu-los estofar."\n
+        "4. Quan els cargols siguin a punt, flamegeu-los amb conyac. Deixeu que s'evapori l'alcohol i reserveu-los."\n
+        "5. En una cassola de fang col·loqueu els rovellons sense cama i amb les làmines mirant cap amunt."\n
+        "6. Afegiu-hi la botifarra i els tomàquets tallats per la meitat."\n
+        "7. Salpebreu-ho i regueu-ho amb un raig d'oli d'oliva verge."\n
+        "8. Poseu la cassola de fang al forn durant 15 minuts a 180º."\n
+        "9. Passat aquest temps, retireu la cassola del forn i incorporeu-hi els cargols que ja teniu preparats."\n
+        "10. Trinxeu els alls i el julivert i col·loqueu la picada damunt del tomàquet i, seguidament, torneu a enfornar la cassola uns 10 minuts més."\n
+        "11. Serviu el plat acompanyat de pebrot escalivat."\n
+    </string>
+    <string name="temps_cassolarovellons">30 minuts</string>
+
+
+    <!-- >GUISAT AMB LLENEGUES I FREDOLICS -->
+    <string name="nom_curt_guisatllenegues">"Guisat amb llenegues i fredolics"</string>
+    <string name="nom_guisatllenegues">"Guisat amb llenegues i fredolics"</string>
+    <string name="ingredients_guisatllenegues">
+        \n\n
+        "- Carn de vedella tallada a daus"
+        \n
+        "- Llenegues i fredolics"
+        \n
+        "- Cebes"
+        \n
+        "- Alls"
+        \n
+        "- Julivert"
+        \n
+        "- Llorer"
+        \n
+        "- Oli"
+        \n
+        "- Sal "
+        \n
+        "- Pebre"
+    </string>
+    <string name="preparacio_guisatllenegues">
+        "1. Talleu la ceba ben menuda i ofegueu-la en un cassola de fang on prèviament hi haureu esclafat oli."\n
+        "2. Quan la tingueu tova afegiu-hi alls tallats, una mica de julivert i unes fulles de llorer."\n
+        "3. Afegiu-hi la carn de rostir i remeneu-ho, poseu-hi sal i pebre al vostre gust."\n
+        "4. Quan tingueu la carn ben rossa tireu-hi els bolets prèviament tallats. Al cap d'una estona afegiu-hi un got de vi blanc i deixeu-ho coure tapat i a poc a poc fins que la carn sigui ben cuita."\n
+
+    </string>
+    <string name="temps_guisatllenegues">45 minuts</string>
+
+
+    <!-- >FRICANDÓ AMB LLENEGA NEGRA-->
+    <string name="nom_curt_fricandollenega">"Fricandó amb llenega"</string>
+    <string name="nom_fricandollenega">"Fricandó amb llenega negra"</string>
+    <string name="ingredients_fricandollenega">
+        \n\n
+        "- Carn de vedella tallada per fricandó"
+        \n
+        "- Ceba"
+        \n
+        "- Tomàquets"
+        \n
+        "- 1 got de vi sec o ranci"
+        \n
+        "- Llenegues"
+        \n
+        "- Farina"
+        \n
+        "- Sal"
+        \n
+        "- Oli"
+        \n
+        "- Pebre"
+
+    </string>
+    <string name="preparacio_fricandollenega">
+        "1. Poseu una paella amb oli a foc."\n
+        "2. Enfarineu la carn de vedella tallada a lloses. Passeu-la per la paella, però només volta i volta, saleu-la i enretireu-la de l'oli."\n
+        "3. Ratlleu la ceba i els tomàquets ( mitja ceba i mig tomàquet per persona)."\n
+        "4. Tireu la ceba a l'oli on heu fregit la carn i deixeu-la enrossir, desprès afegiu-hi el tomàquet ratllat. Reduïu el foc i deixeu-ho una estona, que faci xup-xup."\n
+        "5. Afegiu-hi un got de vi sec o ranci i un parell de grans d'alls aixafats, meneu-ho i afegiu-hi la carn. Salpebreu-ho al vostre gust."\n
+        "6. Deixeu-ho coure a foc molt lent durant una hora i mitja."\n
+        "7. Mentrestant netegeu i talleu els bolets. Paseu-les per una paella amb una gota d'oli, quan hagin tret la seva pròpia aigua i se l'hagin tornat a beure afegiu-les al fricandó. Sacsegeu la cassola i deixeu-ho coure 10 minuts més."\n
+    </string>
+    <string name="temps_fricandollenega">1 hora</string>
+
+
+    <!-- >POLLASTRE AL CAVA AMB BOLETS DE TEMPORADA-->
+    <string name="nom_curt_pollastrecava">"Pollastre al cava"</string>
+    <string name="nom_pollastrecava">"Pollastre al cava amb bolets de temporada"</string>
+    <string name="ingredients_pollastrecava">
+        \n\n
+        "- Barreja de bolets de temporada"
+        \n
+        "- Pollastre tallat a octaus"
+        \n
+        "- 1 ceba grossa"
+        \n
+        "- 1 got de cava"
+        \n
+        "- Sal"
+        \n
+        "- Pebre"
+        \n
+        "- Oli"
+
+    </string>
+    <string name="preparacio_pollastrecava">
+        "1. Netegeu els bolets amb molta cura."\n
+        "2. Salpebreu generosament el pollastre prèviament tallat a octaus i fregiu-la en una paella amb força oli. Quan siguin ben rossos afegiu-hi unes branques de farigola."\n
+        "3. Ratlleu una ceba i reserveu-la."\n
+        "4. Tragueu el pollastre i les branques de farigola de la paella. Tireu-hi els bolets tallats a trossos i deixeu-los que es vagin coent a poc a poc. Enretireu-los i fregiu la ceba. Quan sigui ben rossa tireu-hi el pollastre i un got de cava, deixeu-ho reduir."\n
+        "5. Seguidament afegiu-hi els bolets i feu-ho coure tot junt i a foc baix durant mitja hora."\n
+    </string>
+    <string name="temps_pollastrecava">45 minuts</string>
+
+
+    <!-- >PURÉ DE PATATA AMB BOLETS, CANSALADA VIADA I BOTIFARRA-->
+    <string name="nom_curt_purepatata">"Puré de patata amb bolets"</string>
+    <string name="nom_purepatata">"Puré de patata amb bolets, canssalada viada i botifarra"</string>
+    <string name="ingredients_purepatata">
+        \n\n
+        "- Barreja de bolets del Berguedà ( llenegues, rovellons, camagrocs, mollerics...)"
+        \n
+        "- Patates"
+        \n
+        "- Cansalada viada"
+        \n
+        "- Botifarra negra"
+        \n
+        "- Col confitada"
+        \n
+        "- Sal"
+        \n
+        "- Pebre"
+         \n
+        "- Oli"
+         \n
+        "- All"
+         \n
+        "- Julivert"
+
+    </string>
+    <string name="preparacio_purepatata">
+        "1. Netegeu bé els bolets, traieu la pell i l'esponja dels mollerics i trossegeu els bolets."\n
+        "2. Feu un puré de patata."\n
+        "3. Poseu una paella al foc amb oli i saltegeu-hi els bolets, quan els tingueu mig cuits afegiu alls i julivert picat."\n
+        "4. Aboqueu-ho tot a la safata on tingueu el puré de patata i barregeu-ho ."\n
+        "5. Acompanyeu el plat amb una tira de cansalada passada per la paella, un tall de botifarra negra i, si en teniu, poseu-hi unes fulles de col confitada en vinagre."\n
+    </string>
+    <string name="temps_purepatata">30 minuts</string>
+
+
+    <!-- >CONILL AMB BOLETS A L'ESTIL ANTIC-->
+    <string name="nom_curt_conillbolets">"Conill amb bolets"</string>
+    <string name="nom_conillbolets">"Conill amb bolets a l'estil antic"</string>
+    <string name="ingredients_conillbolets">
+        \n\n
+        "- 1 conill"
+        \n
+        "- rovellons"
+        \n
+        "- sal"
+        \n
+        "- herbes aromàtiques (farigola, llaurer, orenga)"
+        \n
+        "- tomàquet ratllat"
+        \n
+        "- picada d'all i julivert"
+
+    </string>
+    <string name="preparacio_conillbolets">
+        "1. Tallem els bolets a trossos i els netegem sota l'aixeta. "\n
+        "2. En una cassola amb oli, anem rossejant el conill. Hi afegim una mica de ceba."\n
+        "3. Mentrestant, passem els bolets per una paella, perquè vagin treient l'aigua."\n
+        "4. Quan ja s'ha fos la ceba, incorporem el tomàquet ratllat i escampem les herbes per la cassola."\n
+        "5. Incorporem els rovellons i repartim la picada d'all i julivert. El deixem fent xup xup i cap a taula!"\n
+    </string>
+    <string name="temps_conillbolets">30 minuts</string>
+
+
+    <!-- >CALAMARSONS AMB CAMA DE PERDIU-->
+    <string name="nom_curt_calamarsons">"Calamarsons amb cama de perdiu"</string>
+    <string name="nom_calamarsons">"Calamarsons amb cama de perdiu"</string>
+    <string name="ingredients_calamarsons">
+        \n\n
+        "- 4 calamarsons"
+        \n
+        "- 1 ceba mitjana"
+        \n
+        "- Porro"
+        \n
+        "- All"
+        \n
+        "- 1 pebrot verd"
+        \n
+        "- Ou dur"
+        \n
+        "- Pernil d'aglà"
+        \n
+        "- Cames de perdiu"
+        \n
+        <b>"Per a la crema de verdures:"</b>
+         \n
+        "- Carbassa"
+         \n
+        "- 1 ceba grossa"
+         \n
+        "- 2 patates"
+         \n
+        "- 1 porro"
+         \n
+        "- Crema de llet"
+
+    </string>
+    <string name="preparacio_calamarsons">
+        "1. Comencem pel farcit dels calamarsons. En una paella amb una mica d'oli, hi posem la ceba picada, una mica de porro, l'all picat i un polsim de sal. Quan la ceba s'hagi enrossit hi afegim el pebrot verd picat i les potes de perdiu tallades a trossets petits. Les potes de perdiu es tornaran liles ràpidament. Acabem el sofregit amb una mica de pernil d'aglà tallat a trossets i un ou dur. Com que el pernil ja té un punt salat, només cal rectificar de sal i pebre i retirar-ho del foc."\n
+        "2. Saltem els calamarsons uns segons a foc fort perquè s'endureixin i sigui més fàcil farcir-los. Els farcim i amb un escuradents enganxem el cos amb les potes, que faran de tap. Els enfarinem i els fregim en una paella amb oli."\n
+        "3. Per fer la crema, tallem un porro i una ceba i els sofregim en una olla amb una mica d'oli. Quan s'enrosseixi, hi afegim les dues patates i la carabassa a trossos. Ho cobrim amb aigua i ho deixem bullir 10 minuts. Finalment hi afegim una mica de crema de llet pe lligar la salsa i ho triturem. Perquè quedi ben fina ho passem pel colador xinès."\n
+        "4. Emplatem, amb un llit de salsa, els calamarsons farcits, i fem servir uns quants talls de cames de perdiu fregits per decorar el plat."\n
+    </string>
+    <string name="temps_calamarsons">45 minuts</string>
+
+
+    <!-- >ROVELLONS AMB CEBA I BOTIFARRA ESPARRACADA-->
+    <string name="nom_curt_rovellonsambceba">"Rovellons amb ceba i botifarra"</string>
+    <string name="nom_rovellonsambceba">"Rovellons amb ceba i botifarra esparracada"</string>
+    <string name="ingredients_rovellonsambceba">
+        \n\n
+        "- Botifarra"
+        \n
+        "- Ceba"
+        \n
+        "- Rovellons"
+        \n
+        "- All i julivert amb oli"
+        \n
+        "- Sal"
+        \n
+        "- Pebre"
+         \n
+        "- Vi blanc"
+         \n
+        "- Llorer"
+         \n
+        "- Salsa tomàquet"
+
+    </string>
+    <string name="preparacio_rovellonsambceba">
+        "1. Traiem el budell de la botifarra i la trossegem. L'aboquem a la paella amb una mica d'oli i la fem mentre l'aixafem."\n
+        "2. Un cop hagi agafat una mica de color hi aboquem la ceba i una mica de llorer. Ho deixem fer tot amb foc molt lent."\n
+        "3. Quan la ceba ja és transparent hi afegim una mica de sal i una miqueta de pebre. També hi afegim una mica d'all i julivert amb oli i una miqueta de salsa de tomàquet. Ho deixem fer una estoneta i hi afegim un got de vi blanc prèviament cremat. Ho deixem fer a foc molt lent. "\n
+        "4. En una paella a part fem els bolets amb una mica d'oli, sal i pebre. Foc molt lent també."\n
+        "5. Un cop fet el rovelló, l'aboquem a la paella on es la botifarra amb la ceba. Li donem uns minuts més a foc molt lent i ja tenim el plat preparat."\n\n
+
+        "CONSELLS: Si volem que la ceba agafi una mica de gust, posem prèviament un os de pernil i una mica de brou amb la ceba. La deixem fer a foc molt lent a fi i efecte que la ceba agafi el gust del brou i de l'os."\n
+        "La salsa de tomàquet por ser prèviament confitada. Per fer-ho es posa en una cassola el tomàquet sense gra, i es deixa fer a foc molt lent durant tres hores amb all, ceba, dues branques d'api i un parell de cassons de brou."\n
+    </string>
+    <string name="temps_rovellonsambceba">30 minuts</string>
+
+
+    <!-- >MONGETES DEL GANXET AMB SALTAT DE BOLETS I BOTIFARRA-->
+    <string name="nom_curt_mongetesganxet">"Mongetes amb bolets"</string>
+    <string name="nom_mongetesganxet">"Mongetes del ganxet amb saltat de bolets i botifarra"</string>
+    <string name="ingredients_mongetesganxet">
+        \n\n
+        "- Oli d'oliva"
+        \n
+        "- Vi blanc"
+        \n
+        "- All i julivert"
+        \n
+        "- Una botifarra crua de Cabrils"
+        \n
+        "- Una botifarra negra de Cabrils"
+        \n
+        "- Un grapat de mongetes fregides amb llard"
+         \n
+        "- 1/2 kg. de bolets"
+
+
+    </string>
+    <string name="preparacio_mongetesganxet">
+        "1. Mentre netegem els bolets, fregim la botifarra crua a foc lent. L'hem de posar a la paella amb l'oli encara fred, perquè no esclati. Retirem la botifarra i en el mateix oli hi fem els bolets. Els salem i esperem que es facin. Deixem que els bolets consumeixin la pròpia aigua. "\n
+        "2. Mentre es fan els bolets, fregim les mongetes del ganxet amb llard (unes 2 cullerades) i les reservem."\n
+        "3. Tallem les botifarres a trossos, mentre esperem que els bolets s'acabin de fer. Quan hagin perdut l'aigua, hi afegim la picada d'all i julivert, i després un got de vi i les botifarres a trossos. A última hora hi tirem les mongetes. Ho remenem una mica i ja tenim el plat acabat.  "\n
+    </string>
+    <string name="temps_mongetesganxet">30 minuts</string>
+
+
+
+
+    <!-- >POSTRES -->
+
+    <!-- >MATÓ AMB CAMAGROCS CARAMELITZATS -->
+    <string name="nom_curt_matocamagrocs">"Mató amb camagrocs"</string>
+    <string name="nom_matocamagrocs">"Mató amb camagrocs caramelitzats"</string>
+    <string name="ingredients_matocamagrocs">
+        \n\n
+        "- 100 g sucre"
+        \n
+        "- Llimona"
+        \n
+        "- Camagrocs"
+        \n
+        "- Mató "
+        \n
+        "- Mel"
+
+    </string>
+    <string name="preparacio_matocamagrocs">
+        "1. En una paella escalfem el sucre amb unes gotes de llimona. Removem tota l'estona fins que es faci el caramel. Quan ja té el color adequat, afegim els camagrocs i remenem sense parar fins que quedin caramelitzats. "\n
+        "2. Muntem el plat amb el mató a la base, una mica de mel i ho acabem amb els camagrocs. "\n
+
+    </string>
+    <string name="temps_matocamagrocs">15 minuts</string>
+
+
+    <!-- >TRUITA DOLÇA DE ROSSINYOLICS -->
+    <string name="nom_curt_truitadolsa">"Truita dolça de rossinyolics"</string>
+    <string name="nom_truitadolsa">"Truita dolça de rossinyolics"</string>
+    <string name="ingredients_truitadolsa">
+        \n\n
+        "- 500 g de rossinyolics tendres (o secs)"
+        \n
+        "- 100 g de sucre"
+        \n
+        "- 4 ous"
+        \n
+        "- 4 cullerades soperes d'oli d'oliva"
+        \n
+        "- 1 copa de rom"
+        \n
+        "- Sal"
+
+    </string>
+    <string name="preparacio_truitadolsa">
+        "1. Netegeu els rossinyolics tendres. Si els rossinyolics són secs, poseu-los en remull durant mitja hora amb aigua tèbia."\n
+        "2. Un cop escorreguts, bateu els ous, barregeu-los amb els bolets i feu la truita."\n
+        "3. Quan tingueu feta la truita, cobriu-la amb sucre, regueu-la amb el rom i seguidament flamegeu-la. Ja la podeu servir. És recomanable que el rom estigui a temperatura ambient"\n
+
+    </string>
+    <string name="temps_truitadolsa">30 minuts</string>
+
+
+    <!-- >CREMA CATALANA AMB REIGS -->
+    <string name="nom_curt_cremacatalana">"Crema catalana amb reigs"</string>
+    <string name="nom_cremacatalana">"Crema catalana amb reigs"</string>
+    <string name="ingredients_cremacatalana">
+        \n\n
+        "- 250 g de reigs"
+        \n
+        "- 150 g de sucre"
+        \n
+        "- 50 g de farina de blat de moro (maizena)"
+        \n
+        "- 1 l de nata líquida"
+        \n
+        "- 8 rovells d'ou"
+
+    </string>
+    <string name="preparacio_cremacatalana">
+        "1. Netegeu i talleu els reigs a trossos petits i reserveu-los."\n
+        "2. Poseu el sucre en una cassola, deixeu-lo fondre i afegiu-hi els trossos de reig."\n
+        "3. Quan comenci a caramel·litzar (trigarà uns 3 minuts), poseu-hi una mica de nata líquida i, quan faci un bull, retireu-ho del foc i barregeu-hi els rovells d'ou prèviament batuts."\n
+        "4. Finalment, afegiu-hi farina de blat de moro i poseu-ho de nou tot a bullir fins que la crema comenci a espessir. Un cop llest, presenteu-ho en una cassoleta i deixeu-ho refredar. Podeu cremar-la amb sucre."\n
+
+    </string>
+    <string name="temps_cremacatalana">30 minuts</string>
+
+
+    <!-- >GELAT DE ROSSINYOLS -->
+    <string name="nom_curt_gelatrossinyols">"Gelat de rossinyols"</string>
+    <string name="nom_gelatrossinyols">"Gelat de rossinyols"</string>
+    <string name="ingredients_gelatrossinyols">
+        \n\n
+        "- Rossinyols congelats"
+        \n
+        "- Sucre"
+        \n
+        "- Rovells d'ou"
+        \n
+        "- Crema de maracuià"
+        \n
+        "- Crema de xocolata blanca"
+        \n
+        "- Nata"
+        \n
+        "- Llet"
+        \n
+        "- Polpa de maracuià "
+        \n
+        "- Galetes de cafè"
+
+    </string>
+    <string name="preparacio_gelatrossinyols">
+        "1. Per fer el gelat de rossinyols comencem fent una crema anglesa amb els rovells d'ou i el sucre. Barregem bé aquests dos ingredients. A part, infusionem els rossinyols, els posem amb la llet al foc uns 10 min fins que arrenqui el bull i tot seguit els passem pel túrmix. Després ho barregem tot. Si volem que quedi més fi i no trobar trossos de rossinyols ho podem passar pel colador xinès. Un cop tot barrejat ho tornem a posar al foc 3 o 4 min més. Després ho deixem reposar 24 h a la nevera i 24 h al congelador."\n
+        "2. Per fer aquestes postres, preparem també un tofi de rossinyols. Per això agafem rossinyols ben petits als quals hem pelat la pota. Primer farem un caramel. Per fer-lo posem el sucre en un cassó al foc i deixem que es dissolgui fins que agafi un to fosc. Hi afegim els rossinyols sencers i la nata, i ho remenem. Ho deixem coure tot uns 5 min, que el bolet perdi una mica d'aigua i deixi el gust a la salsa."\n
+        "3. I ara només queda muntar el plat. Posem a la base una mica de crema de xocolata blanca (1), una mica de crema de maracuià (2), després la polpa de maracuià (3), la galeta de cafè (4) i a sobre el gelat de rossinyols. Finalment, hi afegim els rossinyols amb tofi."\n
+        "(1)	És una crema pastissera a la qual afegim xocolata blanca"\n
+        "(2)	Es fa amb suc de maracuià cuit amb ous i sucre, i muntat amb mantega"\n
+        "(3)	La polpa l'hem posat amb sucre a parts iguals i l'hem deixat coure uns 10 min"\n
+        "(4)	Es fa amb farina, mantega, farina d'ametlla, a parts iguals, i cafè, que és una quarta part respecte als altres ingredients"\n
+
+    </string>
+    <string name="temps_gelatrossinyols">30 minuts</string>
+
+
+</resources>

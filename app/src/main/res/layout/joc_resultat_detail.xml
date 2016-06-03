@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/imatgeResultatFinal"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/txtResultatFinal"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ic_android"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:id="@+id/txtResultatFinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:text="Has obtingut X punts"
+        android:textSize="30dp"
+        android:textColor="@color/verd"
+        android:layout_margin="20dp"
+        />
+
+    <TextView
+        android:id="@+id/txtResultatFinal2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtResultatFinal"
+        android:layout_centerHorizontal="true"
+        android:text="Molt bé!"
+        android:textSize="20dp"
+        android:layout_margin="20dp"
+        />
+
+    <Button
+        android:id="@+id/buttonAbandona_joc"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:background="@color/facildeconfondre"
+        android:text="Sortir"
+        android:textColor="@color/window_background" />
+
+    <Button
+        android:id="@+id/buttonTorna_joc"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="10dp"
+        android:background="@color/verd"
+        android:text="Jugar"
+        android:textColor="@color/window_background" />
+
+
+
+</RelativeLayout>
